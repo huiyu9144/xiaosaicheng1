@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-11T01:04:26+08:00",
+  "updatedAt": "2026-05-12T02:01:36+08:00",
   "matches": [
     {
       "league": "",
@@ -108,6 +108,19 @@
     },
     {
       "league": "",
+      "leagueType": "LPL",
+      "matchStage": "Week 7",
+      "leagueRound": null,
+      "homeTeam": "LGD",
+      "awayTeam": "LNG",
+      "time": "17:00",
+      "date": "2026-05-14",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
       "leagueType": "LCK",
       "matchStage": "Week 7",
       "leagueRound": null,
@@ -150,10 +163,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "费城76人",
-      "awayTeam": "纽约尼克斯",
-      "time": "03:30",
-      "date": "2026-05-11",
+      "homeTeam": "克利夫兰骑士",
+      "awayTeam": "底特律活塞",
+      "time": "08:00",
+      "date": "2026-05-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -163,10 +176,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "明尼苏达森林狼",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "07:30",
-      "date": "2026-05-11",
+      "homeTeam": "洛杉矶湖人",
+      "awayTeam": "俄克拉荷马雷霆",
+      "time": "10:30",
+      "date": "2026-05-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -176,81 +189,55 @@
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "帕尔马",
-      "awayTeam": "罗马",
-      "time": "00:00",
-      "date": "2026-05-11",
-      "category": "足球",
-      "isImportant": false,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "西甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "Real Oviedo",
-      "awayTeam": "赫塔费",
-      "time": "00:30",
-      "date": "2026-05-11",
-      "category": "足球",
-      "isImportant": false,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "德甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "美因茨",
-      "awayTeam": "柏林联合",
-      "time": "01:30",
-      "date": "2026-05-11",
-      "category": "足球",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "AC米兰",
-      "awayTeam": "亚特兰大",
+      "homeTeam": "那不勒斯",
+      "awayTeam": "博洛尼亚",
       "time": "02:45",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
     },
     {
       "league": "",
-      "leagueType": "西甲",
+      "leagueType": "英超",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "巴塞罗那",
-      "awayTeam": "皇家马德里",
+      "homeTeam": "托特纳姆热刺",
+      "awayTeam": "Leeds United",
       "time": "03:00",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "category": "足球",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "World Seniors Championship (6-10 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Ronnie O'Sullivan",
-      "awayTeam": "Joe Perry",
-      "time": "02:00",
-      "date": "2026-05-11",
-      "category": "其他",
       "isImportant": true,
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "",
+      "leagueType": "西甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "巴列卡诺",
+      "awayTeam": "赫罗纳",
+      "time": "03:00",
+      "date": "2026-05-12",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "中超",
+      "matchStage": "常规赛",
+      "leagueRound": 12,
+      "homeTeam": "河南队",
+      "awayTeam": "深圳新鹏城",
+      "time": "19:35",
+      "date": "2026-05-15",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -263,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -276,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -289,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -302,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -315,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -328,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -341,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -367,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -380,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -393,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -406,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -419,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -432,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -445,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -458,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -471,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -484,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -497,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -510,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -523,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -536,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -549,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -562,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -575,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -588,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -601,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -614,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -627,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -640,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -653,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -666,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -679,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -692,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -705,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -718,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -731,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -744,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -757,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -770,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -783,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -796,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -809,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -822,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -835,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -848,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -861,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -874,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -887,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -900,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -913,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -926,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -939,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -952,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -965,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -978,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -991,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1004,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1017,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1030,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1043,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1056,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1069,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -1082,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1095,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1108,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1121,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1134,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1147,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -1160,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -1173,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -1186,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1199,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1212,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1225,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -1238,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -1251,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -1264,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1277,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -1290,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -1303,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1316,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1329,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1342,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1355,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1368,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1381,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1394,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1407,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1485,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1498,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1511,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1524,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -1537,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -1550,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -1563,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1576,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1628,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1641,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1654,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1667,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1680,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1693,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1706,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1719,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -1732,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -1745,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1758,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1771,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1784,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1797,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1810,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -1823,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -1836,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -1849,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -1862,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1875,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1888,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1901,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1914,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1927,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1940,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1953,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1966,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1979,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -1992,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -2005,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2018,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2031,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -2044,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -2057,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -2070,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -2083,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -2096,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -2109,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp K",
       "leagueRound": null,
@@ -2122,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -2135,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp N",
       "leagueRound": null,
@@ -2148,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2161,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2174,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2187,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2200,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2213,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2226,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2239,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -2252,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -2265,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -2278,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -2291,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -2304,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -2317,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -2330,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -2343,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -2356,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -2369,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -2382,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -2395,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2408,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2421,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2434,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2447,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -2460,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -2473,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -2486,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp L",
       "leagueRound": null,
@@ -2499,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp M",
       "leagueRound": null,
@@ -2512,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp O",
       "leagueRound": null,
@@ -2525,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp P",
       "leagueRound": null,
@@ -2538,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2603,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2616,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2629,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2642,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2655,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2668,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2681,7 +2668,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2694,7 +2681,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2707,7 +2694,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2720,7 +2707,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2733,7 +2720,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2746,7 +2733,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2759,7 +2746,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2772,7 +2759,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2785,7 +2772,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2811,7 +2798,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2824,7 +2811,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2837,7 +2824,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2850,7 +2837,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2863,7 +2850,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2876,7 +2863,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2889,7 +2876,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2902,7 +2889,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2915,7 +2902,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2928,7 +2915,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2941,7 +2928,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2954,7 +2941,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2967,7 +2954,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2980,7 +2967,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2993,7 +2980,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3006,7 +2993,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3019,7 +3006,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3032,7 +3019,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3045,7 +3032,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3058,7 +3045,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3071,7 +3058,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3084,7 +3071,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3097,7 +3084,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3110,7 +3097,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3123,7 +3110,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3136,7 +3123,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3149,7 +3136,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3162,7 +3149,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3175,7 +3162,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3188,7 +3175,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3201,7 +3188,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3214,7 +3201,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3227,7 +3214,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3240,7 +3227,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3253,7 +3240,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3266,7 +3253,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3279,7 +3266,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3292,7 +3279,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3305,7 +3292,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3318,7 +3305,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3331,7 +3318,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3344,7 +3331,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3357,7 +3344,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3370,7 +3357,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3383,7 +3370,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3396,7 +3383,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3409,7 +3396,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3422,7 +3409,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3435,7 +3422,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3448,7 +3435,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3461,7 +3448,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3474,7 +3461,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3487,7 +3474,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3500,7 +3487,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3513,7 +3500,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3526,7 +3513,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3539,7 +3526,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3552,7 +3539,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3565,7 +3552,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3578,7 +3565,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3591,7 +3578,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3604,7 +3591,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3617,7 +3604,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3630,7 +3617,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3643,7 +3630,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3656,7 +3643,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3669,7 +3656,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3682,7 +3669,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3695,7 +3682,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3708,7 +3695,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3721,7 +3708,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3734,7 +3721,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3747,7 +3734,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3760,7 +3747,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3773,7 +3760,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3786,7 +3773,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3799,7 +3786,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3812,7 +3799,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3825,7 +3812,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3838,7 +3825,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3851,7 +3838,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3864,7 +3851,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3877,7 +3864,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3890,7 +3877,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3903,7 +3890,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3916,7 +3903,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3929,7 +3916,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3942,7 +3929,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3955,7 +3942,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3968,7 +3955,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3981,7 +3968,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3994,7 +3981,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4007,7 +3994,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4020,7 +4007,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4033,7 +4020,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4046,7 +4033,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4059,7 +4046,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4072,7 +4059,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4085,7 +4072,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4098,7 +4085,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4111,7 +4098,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4124,7 +4111,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4137,7 +4124,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4150,7 +4137,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4163,7 +4150,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4176,7 +4163,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4189,7 +4176,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4202,7 +4189,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4215,7 +4202,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4228,7 +4215,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4241,7 +4228,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4254,7 +4241,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4267,7 +4254,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4280,7 +4267,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4293,7 +4280,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4306,7 +4293,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4319,7 +4306,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4332,7 +4319,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4345,7 +4332,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4358,7 +4345,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4371,7 +4358,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4384,7 +4371,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4397,7 +4384,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4410,7 +4397,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4423,7 +4410,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4436,7 +4423,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4449,7 +4436,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4462,7 +4449,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4475,7 +4462,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4488,7 +4475,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4501,7 +4488,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4514,7 +4501,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4527,7 +4514,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4540,7 +4527,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4553,7 +4540,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4566,7 +4553,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4579,7 +4566,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4592,7 +4579,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4605,7 +4592,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -4618,7 +4605,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4631,7 +4618,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4644,7 +4631,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4657,7 +4644,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4670,7 +4657,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4683,7 +4670,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4696,7 +4683,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4709,7 +4696,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4722,7 +4709,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4735,7 +4722,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4748,7 +4735,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4761,7 +4748,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4774,7 +4761,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4787,7 +4774,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4800,7 +4787,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4813,7 +4800,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4826,7 +4813,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4839,7 +4826,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4852,7 +4839,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4865,7 +4852,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4878,7 +4865,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4891,7 +4878,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4904,7 +4891,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4917,7 +4904,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4930,7 +4917,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4943,7 +4930,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4956,7 +4943,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4969,7 +4956,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4982,7 +4969,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -4995,7 +4982,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5008,7 +4995,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5021,7 +5008,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5047,7 +5034,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5060,7 +5047,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5073,7 +5060,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5086,7 +5073,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5099,7 +5086,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5112,7 +5099,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5125,7 +5112,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5138,7 +5125,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5151,7 +5138,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5164,7 +5151,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5177,7 +5164,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5190,7 +5177,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5203,7 +5190,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5216,7 +5203,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5229,7 +5216,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5242,7 +5229,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5255,7 +5242,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5268,7 +5255,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5281,7 +5268,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5294,7 +5281,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5307,7 +5294,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5320,7 +5307,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5333,7 +5320,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5346,7 +5333,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5359,7 +5346,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5372,7 +5359,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5385,7 +5372,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5398,7 +5385,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -5411,7 +5398,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5424,7 +5411,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5437,7 +5424,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5450,7 +5437,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5463,7 +5450,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5476,7 +5463,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5489,7 +5476,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5502,7 +5489,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5515,7 +5502,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5528,7 +5515,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5541,7 +5528,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5554,7 +5541,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5567,7 +5554,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5580,7 +5567,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5593,7 +5580,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5606,7 +5593,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5619,7 +5606,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5632,7 +5619,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5645,7 +5632,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5658,7 +5645,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5671,7 +5658,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5684,7 +5671,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5697,7 +5684,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5710,7 +5697,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5723,7 +5710,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5736,7 +5723,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5749,7 +5736,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5762,7 +5749,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5775,7 +5762,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5788,7 +5775,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5801,7 +5788,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5814,7 +5801,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5827,7 +5814,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5840,7 +5827,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5853,7 +5840,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5866,7 +5853,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5879,7 +5866,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5892,7 +5879,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5905,7 +5892,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5918,7 +5905,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -5931,7 +5918,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5944,7 +5931,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5957,7 +5944,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5970,7 +5957,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5983,7 +5970,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -5996,7 +5983,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6009,7 +5996,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6022,7 +6009,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6035,7 +6022,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6048,7 +6035,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6061,7 +6048,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6074,7 +6061,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6087,7 +6074,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6100,7 +6087,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6113,7 +6100,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6126,7 +6113,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6139,7 +6126,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6152,7 +6139,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6165,7 +6152,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6178,7 +6165,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6191,7 +6178,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6204,7 +6191,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6217,7 +6204,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6230,7 +6217,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6243,7 +6230,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6256,7 +6243,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6269,7 +6256,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6282,7 +6269,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6295,7 +6282,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6308,7 +6295,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6321,7 +6308,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -6334,7 +6321,7 @@
       "status": "upcoming"
     },
     {
-      "league": "World Seniors Championship (6-10 May 2026)",
+      "league": "Women's World Championship (12-19 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
