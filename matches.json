@@ -1,46 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-19T02:06:59+08:00",
+  "updatedAt": "2026-05-20T02:11:57+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "DreamLeague",
-      "matchStage": "Upper Bracket Quarterfinals",
-      "leagueRound": null,
-      "homeTeam": "Team Falcons",
-      "awayTeam": "Tundra Esports",
-      "time": "18:00",
-      "date": "2026-05-19",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "DreamLeague",
-      "matchStage": "Upper Bracket Quarterfinals",
-      "leagueRound": null,
-      "homeTeam": "Team Spirit",
-      "awayTeam": "BetBoom Team",
-      "time": "21:30",
-      "date": "2026-05-19",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "DreamLeague",
-      "matchStage": "Upper Bracket Quarterfinals",
-      "leagueRound": null,
-      "homeTeam": "PARIVISION",
-      "awayTeam": "Team Liquid",
-      "time": "21:30",
-      "date": "2026-05-19",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "DreamLeague",
@@ -89,6 +50,45 @@
       "awayTeam": "KT",
       "time": "18:00",
       "date": "2026-05-20",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "DreamLeague",
+      "matchStage": "Lower Bracket Round 1",
+      "leagueRound": null,
+      "homeTeam": "Tundra Esports",
+      "awayTeam": "Virtus.pro",
+      "time": "18:00",
+      "date": "2026-05-20",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "DreamLeague",
+      "matchStage": "Lower Bracket Round 1",
+      "leagueRound": null,
+      "homeTeam": "BetBoom Team",
+      "awayTeam": "Vici Gaming",
+      "time": "21:30",
+      "date": "2026-05-20",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "DreamLeague",
+      "matchStage": "Lower Bracket Round 1",
+      "leagueRound": null,
+      "homeTeam": "Team Liquid",
+      "awayTeam": "Xtreme Gaming",
+      "time": "01:00",
+      "date": "2026-05-21",
       "category": "电竞",
       "isImportant": true,
       "status": "upcoming"
@@ -189,10 +189,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "俄克拉荷马雷霆",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "08:30",
-      "date": "2026-05-19",
+      "homeTeam": "纽约尼克斯",
+      "awayTeam": "克利夫兰骑士",
+      "time": "08:00",
+      "date": "2026-05-20",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -202,23 +202,36 @@
       "leagueType": "英超",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "阿森纳",
-      "awayTeam": "Burnley",
-      "time": "03:00",
-      "date": "2026-05-19",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "曼城",
+      "time": "02:30",
+      "date": "2026-05-20",
       "category": "足球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
       "league": "",
-      "leagueType": "中超",
+      "leagueType": "英超",
       "matchStage": "常规赛",
-      "leagueRound": 13,
-      "homeTeam": "深圳新鹏城",
-      "awayTeam": "大连英博",
-      "time": "19:35",
-      "date": "2026-05-19",
+      "leagueRound": null,
+      "homeTeam": "切尔西",
+      "awayTeam": "托特纳姆热刺",
+      "time": "03:15",
+      "date": "2026-05-20",
+      "category": "足球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "佛罗伦萨",
+      "awayTeam": "亚特兰大",
+      "time": "02:45",
+      "date": "2026-05-23",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
@@ -237,33 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "马来西亚大师赛",
-      "leagueType": "羽毛球",
-      "matchStage": "32强",
-      "leagueRound": null,
-      "homeTeam": "李诗沣",
-      "awayTeam": "王祉怡",
-      "time": "10:00",
-      "date": "2026-05-19",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Women's World Championship (12-19 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Panchaya Channoi",
-      "awayTeam": "Reanne Evans",
-      "time": "12:00",
-      "date": "2026-05-19",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -289,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -302,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -341,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,20 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ma Hailong",
-      "awayTeam": "T Tirapongpaiboon",
-      "time": "14:00",
-      "date": "2026-05-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,20 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Deng Haohui",
-      "awayTeam": "Sunny Akani",
-      "time": "11:00",
-      "date": "2026-05-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1030,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1043,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1056,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1069,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1082,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1095,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1121,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1147,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1160,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1173,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1186,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1199,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1212,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1225,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1238,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1251,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1264,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1277,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1290,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1303,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1316,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1329,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1342,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1355,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1368,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1381,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1394,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1407,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1420,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1433,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1446,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1459,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1472,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1485,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1498,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1511,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1524,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1537,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1550,11 +1511,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Deng Haohui",
+      "homeTeam": "Sunny Akani",
       "awayTeam": "Cao Zeyi",
       "time": "15:30",
       "date": "2026-05-22",
@@ -1563,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1576,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1589,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1602,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1615,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1628,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1641,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1654,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1667,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1680,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1693,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1706,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1719,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1732,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1745,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1758,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1771,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1784,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1797,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1810,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1823,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1836,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1849,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1862,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1875,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1888,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1901,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1914,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1927,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1940,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1953,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1966,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1979,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1992,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2005,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2018,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2031,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2044,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2057,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2070,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2083,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2096,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2109,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2122,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2135,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2148,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2161,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2174,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2187,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2200,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2213,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2226,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2239,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2252,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2265,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2278,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2291,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2304,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2317,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2330,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2343,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2356,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2369,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2382,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2395,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2408,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2421,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2434,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2447,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2460,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2473,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2499,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2512,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2525,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2538,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2603,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2616,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2629,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2642,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2655,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2668,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2681,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2694,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2707,7 +2668,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2720,7 +2681,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2733,7 +2694,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2746,7 +2707,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2759,7 +2720,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2772,7 +2733,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2785,7 +2746,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2798,7 +2759,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2811,7 +2772,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2824,7 +2785,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2837,7 +2798,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2850,7 +2811,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2863,7 +2824,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2876,7 +2837,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2889,7 +2850,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2902,7 +2863,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2915,7 +2876,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2928,7 +2889,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2941,7 +2902,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2954,7 +2915,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2967,7 +2928,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2980,7 +2941,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2993,7 +2954,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3006,7 +2967,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3019,7 +2980,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3032,7 +2993,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3045,7 +3006,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3058,7 +3019,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3071,7 +3032,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3084,7 +3045,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3097,7 +3058,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3110,7 +3071,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3123,7 +3084,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3136,7 +3097,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3149,7 +3110,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3162,7 +3123,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3175,7 +3136,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3188,7 +3149,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3201,7 +3162,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3214,7 +3175,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3227,7 +3188,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3240,7 +3201,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3253,7 +3214,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3266,7 +3227,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3279,7 +3240,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3292,7 +3253,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3305,7 +3266,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3318,7 +3279,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3331,7 +3292,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3344,7 +3305,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3357,7 +3318,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3370,7 +3331,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3383,7 +3344,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3396,7 +3357,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3409,7 +3370,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3422,7 +3383,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3435,7 +3396,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3448,7 +3409,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3461,7 +3422,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3474,7 +3435,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3487,7 +3448,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3500,7 +3461,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3513,7 +3474,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3526,7 +3487,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3539,7 +3500,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3552,7 +3513,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3565,7 +3526,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3578,7 +3539,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3591,7 +3552,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3604,7 +3565,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3617,7 +3578,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3630,7 +3591,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3643,7 +3604,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3656,7 +3617,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3669,7 +3630,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3682,7 +3643,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3695,7 +3656,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3708,7 +3669,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3721,7 +3682,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3734,7 +3695,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3747,7 +3708,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3760,7 +3721,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3773,7 +3734,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -3786,7 +3747,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Women's World Championship (12-19 May 2026)",
+      "league": "Q School 2 Asia & Oceania (20-24 May 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
