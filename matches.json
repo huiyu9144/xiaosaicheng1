@@ -1,46 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-31T01:18:21+08:00",
+  "updatedAt": "2026-06-01T01:18:04+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LCK",
-      "matchStage": "Week 9",
-      "leagueRound": null,
-      "homeTeam": "BRO",
-      "awayTeam": "HLE",
-      "time": "16:00",
-      "date": "2026-05-31",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "LPL",
-      "matchStage": "Upper Bracket Semifinals",
-      "leagueRound": null,
-      "homeTeam": "JDG",
-      "awayTeam": "TES",
-      "time": "17:00",
-      "date": "2026-05-31",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "LCK",
-      "matchStage": "Week 9",
-      "leagueRound": null,
-      "homeTeam": "NS",
-      "awayTeam": "DK",
-      "time": "18:00",
-      "date": "2026-05-31",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LPL",
@@ -85,81 +46,16 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "俄克拉荷马雷霆",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "08:00",
-      "date": "2026-05-31",
+      "homeTeam": "圣安东尼奥马刺",
+      "awayTeam": "纽约尼克斯",
+      "time": "08:30",
+      "date": "2026-06-04",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "巴黎圣日耳曼",
-      "awayTeam": "阿森纳",
-      "time": "00:00",
-      "date": "2026-05-31",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "Q School 2 (26-31 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Bodor",
-      "awayTeam": "Milewski",
-      "time": "17:00",
-      "date": "2026-05-31",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q School 2 (26-31 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "A Taylor",
-      "awayTeam": "Pragnell",
-      "time": "17:00",
-      "date": "2026-05-31",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q School 2 (26-31 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "M Joyce",
-      "awayTeam": "Mark Davis",
-      "time": "17:00",
-      "date": "2026-05-31",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q School 2 (26-31 May 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Milkins",
-      "awayTeam": "B Ochoiski",
-      "time": "17:00",
-      "date": "2026-05-31",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -172,7 +68,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -185,7 +81,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -198,7 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -211,7 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -224,7 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -237,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -250,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -263,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -276,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -289,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -302,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -315,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -328,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -341,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -354,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -367,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -380,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -393,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -406,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -419,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -432,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -445,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -458,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -471,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -484,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -497,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -510,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -523,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -536,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -549,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -562,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -575,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -588,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -601,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -614,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -627,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -640,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -653,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -666,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -679,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -692,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -705,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -718,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -731,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -744,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -757,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -770,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -783,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -796,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -809,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -822,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -835,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -848,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -861,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -874,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -887,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -900,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -913,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -926,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -939,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -952,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -965,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -978,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -991,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1004,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1017,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1030,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1043,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1056,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 4",
       "leagueRound": null,
@@ -1069,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1082,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1095,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1108,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1121,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1134,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1147,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1160,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1173,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1186,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1199,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1212,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1225,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1238,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1251,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1264,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1277,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1290,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1303,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1316,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1329,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1342,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1355,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1368,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1381,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1394,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1407,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1420,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1433,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1446,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1459,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1472,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1485,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1498,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1511,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
@@ -1524,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1537,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1550,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1563,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1576,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1628,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1641,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1654,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1667,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1680,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1693,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1706,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1719,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q School 2 (26-31 May 2026)",
+      "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
