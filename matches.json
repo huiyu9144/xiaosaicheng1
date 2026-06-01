@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-01T01:18:04+08:00",
+  "updatedAt": "2026-06-02T04:23:04+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LPL",
-      "matchStage": "Upper Bracket Semifinals",
-      "leagueRound": null,
-      "homeTeam": "AL",
-      "awayTeam": "WE",
-      "time": "17:00",
-      "date": "2026-06-01",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LPL",
@@ -43,6 +30,45 @@
     },
     {
       "league": "",
+      "leagueType": "LPL",
+      "matchStage": "Lower Bracket Quarterfinals",
+      "leagueRound": null,
+      "homeTeam": "AL",
+      "awayTeam": "JDG",
+      "time": "17:00",
+      "date": "2026-06-05",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LPL",
+      "matchStage": "Lower Bracket Quarterfinals",
+      "leagueRound": null,
+      "homeTeam": "JDG",
+      "awayTeam": "TES",
+      "time": "17:00",
+      "date": "2026-06-06",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LPL",
+      "matchStage": "Upper Bracket Final",
+      "leagueRound": null,
+      "homeTeam": "TES",
+      "awayTeam": "WE",
+      "time": "17:00",
+      "date": "2026-06-07",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
@@ -52,6 +78,19 @@
       "date": "2026-06-04",
       "category": "篮球",
       "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "中超",
+      "matchStage": "常规赛",
+      "leagueRound": 16,
+      "homeTeam": "青岛海牛",
+      "awayTeam": "云南玉昆",
+      "time": "19:35",
+      "date": "2026-06-26",
+      "category": "足球",
+      "isImportant": false,
       "status": "upcoming"
     },
     {
