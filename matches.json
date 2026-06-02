@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-02T04:23:04+08:00",
+  "updatedAt": "2026-06-03T03:50:22+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LPL",
-      "matchStage": "Lower Bracket Round 1",
-      "leagueRound": null,
-      "homeTeam": "TT",
-      "awayTeam": "LGD",
-      "time": "17:00",
-      "date": "2026-06-02",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LPL",
