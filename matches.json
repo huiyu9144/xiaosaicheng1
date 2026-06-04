@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-04T03:55:31+08:00",
+  "updatedAt": "2026-06-05T02:25:57+08:00",
   "matches": [
     {
       "league": "",
@@ -49,7 +49,7 @@
       "homeTeam": "圣安东尼奥马刺",
       "awayTeam": "纽约尼克斯",
       "time": "08:30",
-      "date": "2026-06-04",
+      "date": "2026-06-06",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
