@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-07T01:22:15+08:00",
+  "updatedAt": "2026-06-08T01:26:24+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LPL",
-      "matchStage": "Upper Bracket Final",
-      "leagueRound": null,
-      "homeTeam": "TES",
-      "awayTeam": "WE",
-      "time": "17:00",
-      "date": "2026-06-07",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LPL",
@@ -24,6 +11,19 @@
       "awayTeam": "BLG",
       "time": "17:00",
       "date": "2026-06-08",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LPL",
+      "matchStage": "Lower Bracket Final",
+      "leagueRound": null,
+      "homeTeam": "WE",
+      "awayTeam": "TES",
+      "time": "16:00",
+      "date": "2026-06-13",
       "category": "电竞",
       "isImportant": true,
       "status": "upcoming"
