@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-12T02:52:35+08:00",
+  "updatedAt": "2026-06-13T02:13:52+08:00",
   "matches": [
     {
       "league": "",
@@ -174,240 +174,6 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Bai Yulu",
-      "awayTeam": "Peter Lines",
-      "time": "04:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "David Lilley",
-      "awayTeam": "Gong Chenzhi",
-      "time": "04:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "David Grace",
-      "awayTeam": "Mitchell Mann",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Scott Donaldson",
-      "awayTeam": "Chen Ruifu",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Iulian Boiko",
-      "awayTeam": "Zhang Yang",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Liu Hongyu",
-      "awayTeam": "Craig Steadman",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Jamie Jones",
-      "awayTeam": "Alfie Burden",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Liam Pullen",
-      "awayTeam": "Ryan Thomerson",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Long Zehuang",
-      "awayTeam": "Robert Milkins",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Yao Pengcheng",
-      "awayTeam": "Reanne Evans",
-      "time": "16:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Xu Yichen",
-      "awayTeam": "Zhao Hanyang",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Matthew Stevens",
-      "awayTeam": "Deng Haohui",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Jiang Jun",
-      "awayTeam": "Sahil Nayyar",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Jordan Brown",
-      "awayTeam": "Daniel Womersley",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Fan Zhengyi",
-      "awayTeam": "Bai Yulu",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Dylan Emery",
-      "awayTeam": "Duane Jones",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Robbie Williams",
-      "awayTeam": "Hammad Miah",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Steven Hallworth",
-      "awayTeam": "Huang Jiahao",
-      "time": "21:30",
-      "date": "2026-06-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open Qual (10-14 Jun 2026)",
-      "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Stuart Bingham",
@@ -450,7 +216,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Ryan Day",
-      "awayTeam": "D Lilley",
+      "awayTeam": "David Lilley",
       "time": "02:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -512,6 +278,32 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Scott Donaldson",
+      "awayTeam": "Chen Ruifu",
+      "time": "04:30",
+      "date": "2026-06-13",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Liam Pullen",
+      "awayTeam": "Ryan Thomerson",
+      "time": "04:30",
+      "date": "2026-06-13",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Elliot Slessor",
@@ -528,7 +320,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Noppon Saengkham",
-      "awayTeam": "Holt",
+      "awayTeam": "Michael Holt",
       "time": "16:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -541,7 +333,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Yuan Sijun",
-      "awayTeam": "Heathcote",
+      "awayTeam": "Louis Heathcote",
       "time": "16:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -554,7 +346,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Jackson Page",
-      "awayTeam": "Mertens",
+      "awayTeam": "Ben Mertens",
       "time": "16:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -567,7 +359,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Anthony McGill",
-      "awayTeam": "Chadha",
+      "awayTeam": "Ishpreet Singh Chadha",
       "time": "16:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -593,7 +385,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Matthew Selt",
-      "awayTeam": "Walden",
+      "awayTeam": "Ricky Walden",
       "time": "16:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -619,7 +411,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Zhou Yuelong",
-      "awayTeam": "Grace",
+      "awayTeam": "Mitchell Mann",
       "time": "21:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -645,7 +437,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Lei Peifan",
-      "awayTeam": "Boiko",
+      "awayTeam": "Iulian Boiko",
       "time": "21:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -710,7 +502,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Thepchaiya Un-Nooh",
-      "awayTeam": "Yao P",
+      "awayTeam": "Yao Pengcheng",
       "time": "21:30",
       "date": "2026-06-13",
       "category": "其他",
@@ -736,7 +528,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Chang Bingyu",
-      "awayTeam": "M Stevens",
+      "awayTeam": "Matthew Stevens",
       "time": "02:30",
       "date": "2026-06-14",
       "category": "其他",
@@ -762,7 +554,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
-      "awayTeam": "J Brown",
+      "awayTeam": "Jordan Brown",
       "time": "02:30",
       "date": "2026-06-14",
       "category": "其他",
@@ -788,7 +580,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Pang Junxu",
-      "awayTeam": "Emery",
+      "awayTeam": "Dylan Emery",
       "time": "02:30",
       "date": "2026-06-14",
       "category": "其他",
@@ -801,7 +593,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Aaron Hill",
-      "awayTeam": "R Williams",
+      "awayTeam": "Hammad Miah",
       "time": "02:30",
       "date": "2026-06-14",
       "category": "其他",
@@ -814,7 +606,7 @@
       "matchStage": "Q Rd 3",
       "leagueRound": null,
       "homeTeam": "Gary Wilson",
-      "awayTeam": "Hallworth",
+      "awayTeam": "Steven Hallworth",
       "time": "02:30",
       "date": "2026-06-14",
       "category": "其他",
@@ -1786,7 +1578,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Xu Si",
       "awayTeam": "Craig Steadman",
@@ -1799,7 +1591,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp N",
+      "matchStage": "Grp 14",
       "leagueRound": null,
       "homeTeam": "Dylan Emery",
       "awayTeam": "Michal Szubarczyk",
@@ -1812,7 +1604,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Michael Holt",
       "awayTeam": "Julien Leclercq",
@@ -1825,7 +1617,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Michael Holt",
       "awayTeam": "Craig Steadman",
@@ -1838,7 +1630,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp N",
+      "matchStage": "Grp 14",
       "leagueRound": null,
       "homeTeam": "Kyren Wilson",
       "awayTeam": "Michal Szubarczyk",
@@ -1851,7 +1643,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Xu Si",
       "awayTeam": "Julien Leclercq",
@@ -1864,7 +1656,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Julien Leclercq",
       "awayTeam": "Craig Steadman",
@@ -1877,7 +1669,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp N",
+      "matchStage": "Grp 14",
       "leagueRound": null,
       "homeTeam": "Kyren Wilson",
       "awayTeam": "Dylan Emery",
@@ -1890,7 +1682,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp c",
+      "matchStage": "Grp 35",
       "leagueRound": null,
       "homeTeam": "Xu Si",
       "awayTeam": "Michael Holt",
@@ -1903,7 +1695,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Ryan Day",
       "awayTeam": "Jamie Clarke",
@@ -1916,7 +1708,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp M",
+      "matchStage": "Grp 13",
       "leagueRound": null,
       "homeTeam": "Steven Hallworth",
       "awayTeam": "Ian Burns",
@@ -1929,7 +1721,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Chang Bingyu",
       "awayTeam": "Phil O'Kane",
@@ -1942,7 +1734,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Chang Bingyu",
       "awayTeam": "Jamie Clarke",
@@ -1955,7 +1747,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp M",
+      "matchStage": "Grp 13",
       "leagueRound": null,
       "homeTeam": "Mark J Williams",
       "awayTeam": "Ian Burns",
@@ -1968,7 +1760,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Ryan Day",
       "awayTeam": "Phil O'Kane",
@@ -1981,7 +1773,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Phil O'Kane",
       "awayTeam": "Jamie Clarke",
@@ -1994,7 +1786,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp M",
+      "matchStage": "Grp 13",
       "leagueRound": null,
       "homeTeam": "Mark J Williams",
       "awayTeam": "Steven Hallworth",
@@ -2007,7 +1799,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp f",
+      "matchStage": "Grp 38",
       "leagueRound": null,
       "homeTeam": "Ryan Day",
       "awayTeam": "Chang Bingyu",
@@ -2020,7 +1812,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Jackson Page",
       "awayTeam": "Ashley Hugill",
@@ -2033,7 +1825,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp U",
+      "matchStage": "Grp 21",
       "leagueRound": null,
       "homeTeam": "Jiang Jun",
       "awayTeam": "Ross Muir",
@@ -2046,7 +1838,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Long Zehuang",
       "awayTeam": "Artemijs Zizins",
@@ -2059,7 +1851,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Long Zehuang",
       "awayTeam": "Ashley Hugill",
@@ -2072,7 +1864,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp U",
+      "matchStage": "Grp 21",
       "leagueRound": null,
       "homeTeam": "Zhang Anda",
       "awayTeam": "Ross Muir",
@@ -2085,7 +1877,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Jackson Page",
       "awayTeam": "Artemijs Zizins",
@@ -2098,7 +1890,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Artemijs Zizins",
       "awayTeam": "Ashley Hugill",
@@ -2111,7 +1903,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp U",
+      "matchStage": "Grp 21",
       "leagueRound": null,
       "homeTeam": "Zhang Anda",
       "awayTeam": "Jiang Jun",
@@ -2124,7 +1916,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp d",
+      "matchStage": "Grp 36",
       "leagueRound": null,
       "homeTeam": "Jackson Page",
       "awayTeam": "Long Zehuang",
@@ -2137,7 +1929,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Yuan Sijun",
       "awayTeam": "Bai Yulu",
@@ -2150,7 +1942,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "David Gilbert",
       "awayTeam": "Panchaya Channoi",
@@ -2163,7 +1955,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Scott Donaldson",
       "awayTeam": "Sahil Nayyar",
@@ -2176,7 +1968,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "Ricky Walden",
       "awayTeam": "Mahmoud El Hareedy",
@@ -2189,7 +1981,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Scott Donaldson",
       "awayTeam": "Bai Yulu",
@@ -2202,7 +1994,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "Ricky Walden",
       "awayTeam": "Panchaya Channoi",
@@ -2215,7 +2007,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Yuan Sijun",
       "awayTeam": "Sahil Nayyar",
@@ -2228,7 +2020,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "David Gilbert",
       "awayTeam": "Mahmoud El Hareedy",
@@ -2241,7 +2033,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Sahil Nayyar",
       "awayTeam": "Bai Yulu",
@@ -2254,7 +2046,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "Mahmoud El Hareedy",
       "awayTeam": "Panchaya Channoi",
@@ -2267,7 +2059,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp _",
+      "matchStage": "Grp 31",
       "leagueRound": null,
       "homeTeam": "Yuan Sijun",
       "awayTeam": "Scott Donaldson",
@@ -2280,7 +2072,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp `",
+      "matchStage": "Grp 32",
       "leagueRound": null,
       "homeTeam": "David Gilbert",
       "awayTeam": "Ricky Walden",
@@ -2293,7 +2085,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "Anthony McGill",
       "awayTeam": "Liu Yang",
@@ -2306,7 +2098,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Y",
+      "matchStage": "Grp 25",
       "leagueRound": null,
       "homeTeam": "Lyu Haotian",
       "awayTeam": "Alexander Ursenbacher",
@@ -2319,7 +2111,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "He Guoqiang",
       "awayTeam": "Sean O'Sullivan",
@@ -2332,7 +2124,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "He Guoqiang",
       "awayTeam": "Liu Yang",
@@ -2345,7 +2137,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Y",
+      "matchStage": "Grp 25",
       "leagueRound": null,
       "homeTeam": "Gary Wilson",
       "awayTeam": "Alexander Ursenbacher",
@@ -2358,7 +2150,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "Anthony McGill",
       "awayTeam": "Sean O'Sullivan",
@@ -2371,7 +2163,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "Sean O'Sullivan",
       "awayTeam": "Liu Yang",
@@ -2384,7 +2176,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Y",
+      "matchStage": "Grp 25",
       "leagueRound": null,
       "homeTeam": "Gary Wilson",
       "awayTeam": "Lyu Haotian",
@@ -2397,7 +2189,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp g",
+      "matchStage": "Grp 39",
       "leagueRound": null,
       "homeTeam": "Anthony McGill",
       "awayTeam": "He Guoqiang",
@@ -2410,7 +2202,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "Pang Junxu",
       "awayTeam": "Luo Zetao",
@@ -2423,7 +2215,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp S",
+      "matchStage": "Grp 19",
       "leagueRound": null,
       "homeTeam": "Louis Heathcote",
       "awayTeam": "Reanne Evans",
@@ -2436,7 +2228,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "David Lilley",
       "awayTeam": "Fergal Quinn",
@@ -2449,7 +2241,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "David Lilley",
       "awayTeam": "Luo Zetao",
@@ -2462,7 +2254,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp S",
+      "matchStage": "Grp 19",
       "leagueRound": null,
       "homeTeam": "Thepchaiya Un-Nooh",
       "awayTeam": "Reanne Evans",
@@ -2475,7 +2267,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "Pang Junxu",
       "awayTeam": "Fergal Quinn",
@@ -2488,7 +2280,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "Fergal Quinn",
       "awayTeam": "Luo Zetao",
@@ -2501,7 +2293,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp S",
+      "matchStage": "Grp 19",
       "leagueRound": null,
       "homeTeam": "Thepchaiya Un-Nooh",
       "awayTeam": "Louis Heathcote",
@@ -2514,7 +2306,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Z",
+      "matchStage": "Grp 26",
       "leagueRound": null,
       "homeTeam": "Pang Junxu",
       "awayTeam": "David Lilley",
@@ -2527,7 +2319,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Hossein Vafaei",
       "awayTeam": "Oliver Sykes",
@@ -2540,7 +2332,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Ben Woollaston",
       "awayTeam": "Huang Jiahao",
@@ -2553,7 +2345,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Fan Zhengyi",
       "awayTeam": "Florian N&uuml;&szlig;le",
@@ -2566,7 +2358,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Noppon Saengkham",
       "awayTeam": "Liam Davies",
@@ -2579,7 +2371,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Fan Zhengyi",
       "awayTeam": "Oliver Sykes",
@@ -2592,7 +2384,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Noppon Saengkham",
       "awayTeam": "Huang Jiahao",
@@ -2605,7 +2397,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Hossein Vafaei",
       "awayTeam": "Florian N&uuml;&szlig;le",
@@ -2618,7 +2410,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Ben Woollaston",
       "awayTeam": "Liam Davies",
@@ -2631,7 +2423,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Florian N&uuml;&szlig;le",
       "awayTeam": "Oliver Sykes",
@@ -2644,7 +2436,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Liam Davies",
       "awayTeam": "Huang Jiahao",
@@ -2657,7 +2449,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ]",
+      "matchStage": "Grp 29",
       "leagueRound": null,
       "homeTeam": "Hossein Vafaei",
       "awayTeam": "Fan Zhengyi",
@@ -2670,7 +2462,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp h",
+      "matchStage": "Grp 40",
       "leagueRound": null,
       "homeTeam": "Ben Woollaston",
       "awayTeam": "Noppon Saengkham",
@@ -2683,7 +2475,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
       "awayTeam": "Hammad Miah",
@@ -2696,7 +2488,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp T",
+      "matchStage": "Grp 20",
       "leagueRound": null,
       "homeTeam": "Liam Pullen",
       "awayTeam": "Liu Wenwei",
@@ -2709,7 +2501,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Martin O'Donnell",
       "awayTeam": "Antoni Kowalski",
@@ -2722,7 +2514,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Martin O'Donnell",
       "awayTeam": "Hammad Miah",
@@ -2735,7 +2527,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp T",
+      "matchStage": "Grp 20",
       "leagueRound": null,
       "homeTeam": "Elliot Slessor",
       "awayTeam": "Liu Wenwei",
@@ -2748,7 +2540,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
       "awayTeam": "Antoni Kowalski",
@@ -2761,7 +2553,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Antoni Kowalski",
       "awayTeam": "Hammad Miah",
@@ -2774,7 +2566,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp T",
+      "matchStage": "Grp 20",
       "leagueRound": null,
       "homeTeam": "Elliot Slessor",
       "awayTeam": "Liam Pullen",
@@ -2787,7 +2579,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp b",
+      "matchStage": "Grp 34",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
       "awayTeam": "Martin O'Donnell",
@@ -2800,7 +2592,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Lei Peifan",
       "awayTeam": "Wang Xinbo",
@@ -2813,7 +2605,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp P",
+      "matchStage": "Grp 16",
       "leagueRound": null,
       "homeTeam": "Sam Craigie",
       "awayTeam": "Yao Pengcheng",
@@ -2826,7 +2618,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Ishpreet Singh Chadha",
       "awayTeam": "Chatchapong Nasa",
@@ -2839,7 +2631,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Ishpreet Singh Chadha",
       "awayTeam": "Wang Xinbo",
@@ -2852,7 +2644,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp P",
+      "matchStage": "Grp 16",
       "leagueRound": null,
       "homeTeam": "Chris Wakelin",
       "awayTeam": "Yao Pengcheng",
@@ -2865,7 +2657,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Lei Peifan",
       "awayTeam": "Chatchapong Nasa",
@@ -2878,7 +2670,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Chatchapong Nasa",
       "awayTeam": "Wang Xinbo",
@@ -2891,7 +2683,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp P",
+      "matchStage": "Grp 16",
       "leagueRound": null,
       "homeTeam": "Chris Wakelin",
       "awayTeam": "Sam Craigie",
@@ -2904,7 +2696,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp [",
+      "matchStage": "Grp 27",
       "leagueRound": null,
       "homeTeam": "Lei Peifan",
       "awayTeam": "Ishpreet Singh Chadha",
@@ -2917,7 +2709,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Joe O'Connor",
       "awayTeam": "Paul Norris",
@@ -2930,7 +2722,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Stan Moody",
       "awayTeam": "T Tirapongpaiboon",
@@ -2943,7 +2735,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Liu Hongyu",
       "awayTeam": "Oliver Brown",
@@ -2956,7 +2748,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Daniel Wells",
       "awayTeam": "Stuart Carrington",
@@ -2969,7 +2761,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Liu Hongyu",
       "awayTeam": "Paul Norris",
@@ -2982,7 +2774,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Daniel Wells",
       "awayTeam": "T Tirapongpaiboon",
@@ -2995,7 +2787,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Joe O'Connor",
       "awayTeam": "Oliver Brown",
@@ -3008,7 +2800,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Stan Moody",
       "awayTeam": "Stuart Carrington",
@@ -3021,7 +2813,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Oliver Brown",
       "awayTeam": "Paul Norris",
@@ -3034,7 +2826,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Stuart Carrington",
       "awayTeam": "T Tirapongpaiboon",
@@ -3047,7 +2839,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp \\",
+      "matchStage": "Grp 28",
       "leagueRound": null,
       "homeTeam": "Joe O'Connor",
       "awayTeam": "Liu Hongyu",
@@ -3060,7 +2852,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp i",
+      "matchStage": "Grp 41",
       "leagueRound": null,
       "homeTeam": "Stan Moody",
       "awayTeam": "Daniel Wells",
@@ -3073,7 +2865,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Jak Jones",
       "awayTeam": "Michael Larkov",
@@ -3086,7 +2878,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Oliver Lines",
       "awayTeam": "Alfie Burden",
@@ -3099,7 +2891,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Oliver Lines",
       "awayTeam": "Michael Larkov",
@@ -3112,7 +2904,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Jak Jones",
       "awayTeam": "Alfie Burden",
@@ -3125,7 +2917,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Alfie Burden",
       "awayTeam": "Michael Larkov",
@@ -3138,7 +2930,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp O",
+      "matchStage": "Grp 15",
       "leagueRound": null,
       "homeTeam": "Iulian Boiko",
       "awayTeam": "Lan Yuhao",
@@ -3151,7 +2943,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp a",
+      "matchStage": "Grp 33",
       "leagueRound": null,
       "homeTeam": "Jak Jones",
       "awayTeam": "Oliver Lines",
@@ -3164,7 +2956,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Stephen Maguire",
       "awayTeam": "Anton Kazakov",
@@ -3177,7 +2969,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp W",
+      "matchStage": "Grp 23",
       "leagueRound": null,
       "homeTeam": "Jamie Jones",
       "awayTeam": "Leone Crowley",
@@ -3190,7 +2982,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Robbie Williams",
       "awayTeam": "Ng On Yee",
@@ -3203,7 +2995,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Robbie Williams",
       "awayTeam": "Anton Kazakov",
@@ -3216,7 +3008,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp W",
+      "matchStage": "Grp 23",
       "leagueRound": null,
       "homeTeam": "Ali Carter",
       "awayTeam": "Leone Crowley",
@@ -3229,7 +3021,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Stephen Maguire",
       "awayTeam": "Ng On Yee",
@@ -3242,7 +3034,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Ng On Yee",
       "awayTeam": "Anton Kazakov",
@@ -3255,7 +3047,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp W",
+      "matchStage": "Grp 23",
       "leagueRound": null,
       "homeTeam": "Ali Carter",
       "awayTeam": "Jamie Jones",
@@ -3268,7 +3060,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp ^",
+      "matchStage": "Grp 30",
       "leagueRound": null,
       "homeTeam": "Stephen Maguire",
       "awayTeam": "Robbie Williams",
@@ -3281,7 +3073,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp V",
+      "matchStage": "Grp 22",
       "leagueRound": null,
       "homeTeam": "Jordan Brown",
       "awayTeam": "Mateusz Baranowski",
@@ -3294,7 +3086,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp X",
+      "matchStage": "Grp 24",
       "leagueRound": null,
       "homeTeam": "Ben Mertens",
       "awayTeam": "Liam Graham",
@@ -3307,7 +3099,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp V",
+      "matchStage": "Grp 22",
       "leagueRound": null,
       "homeTeam": "Stuart Bingham",
       "awayTeam": "Mateusz Baranowski",
@@ -3320,7 +3112,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp X",
+      "matchStage": "Grp 24",
       "leagueRound": null,
       "homeTeam": "Zhou Yuelong",
       "awayTeam": "Liam Graham",
@@ -3333,7 +3125,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp V",
+      "matchStage": "Grp 22",
       "leagueRound": null,
       "homeTeam": "Stuart Bingham",
       "awayTeam": "Jordan Brown",
@@ -3346,7 +3138,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp X",
+      "matchStage": "Grp 24",
       "leagueRound": null,
       "homeTeam": "Zhou Yuelong",
       "awayTeam": "Ben Mertens",
@@ -3359,7 +3151,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Tom Ford",
       "awayTeam": "Ashley Carty",
@@ -3372,7 +3164,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Q",
+      "matchStage": "Grp 17",
       "leagueRound": null,
       "homeTeam": "Marco Fu",
       "awayTeam": "Xu Yichen",
@@ -3385,7 +3177,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Matthew Stevens",
       "awayTeam": "Cheung Ka Wai",
@@ -3398,7 +3190,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Matthew Stevens",
       "awayTeam": "Ashley Carty",
@@ -3411,7 +3203,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Q",
+      "matchStage": "Grp 17",
       "leagueRound": null,
       "homeTeam": "Si Jiahui",
       "awayTeam": "Xu Yichen",
@@ -3424,7 +3216,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Tom Ford",
       "awayTeam": "Cheung Ka Wai",
@@ -3437,7 +3229,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Cheung Ka Wai",
       "awayTeam": "Ashley Carty",
@@ -3450,7 +3242,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp Q",
+      "matchStage": "Grp 17",
       "leagueRound": null,
       "homeTeam": "Si Jiahui",
       "awayTeam": "Marco Fu",
@@ -3463,7 +3255,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp e",
+      "matchStage": "Grp 37",
       "leagueRound": null,
       "homeTeam": "Tom Ford",
       "awayTeam": "Matthew Stevens",
@@ -3476,7 +3268,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Aaron Hill",
       "awayTeam": "Deng Haohui",
@@ -3489,7 +3281,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp R",
+      "matchStage": "Grp 18",
       "leagueRound": null,
       "homeTeam": "Liam Highfield",
       "awayTeam": "Zhao Hanyang",
@@ -3502,7 +3294,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Luca Brecel",
       "awayTeam": "Mitchell Mann",
@@ -3515,7 +3307,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Luca Brecel",
       "awayTeam": "Deng Haohui",
@@ -3528,7 +3320,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp R",
+      "matchStage": "Grp 18",
       "leagueRound": null,
       "homeTeam": "Jack Lisowski",
       "awayTeam": "Zhao Hanyang",
@@ -3541,7 +3333,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Aaron Hill",
       "awayTeam": "Mitchell Mann",
@@ -3554,7 +3346,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Mitchell Mann",
       "awayTeam": "Deng Haohui",
@@ -3567,7 +3359,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp R",
+      "matchStage": "Grp 18",
       "leagueRound": null,
       "homeTeam": "Jack Lisowski",
       "awayTeam": "Liam Highfield",
@@ -3580,7 +3372,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp j",
+      "matchStage": "Grp 42",
       "leagueRound": null,
       "homeTeam": "Aaron Hill",
       "awayTeam": "Luca Brecel",
@@ -3593,7 +3385,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Zak Surety",
       "awayTeam": "Gong Chenzhi",
@@ -3606,7 +3398,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp L",
+      "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "David Grace",
       "awayTeam": "Gao Yang",
@@ -3619,7 +3411,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Matthew Selt",
       "awayTeam": "Andrew Higginson",
@@ -3632,7 +3424,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Matthew Selt",
       "awayTeam": "Gong Chenzhi",
@@ -3645,7 +3437,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp L",
+      "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "Zhao Xintong",
       "awayTeam": "Gao Yang",
@@ -3658,7 +3450,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Zak Surety",
       "awayTeam": "Andrew Higginson",
@@ -3671,7 +3463,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Andrew Higginson",
       "awayTeam": "Gong Chenzhi",
@@ -3684,7 +3476,7 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp L",
+      "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "Zhao Xintong",
       "awayTeam": "David Grace",
@@ -3697,12 +3489,116 @@
     {
       "league": "China Open Qual (10-14 Jun 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp k",
+      "matchStage": "Grp 43",
       "leagueRound": null,
       "homeTeam": "Zak Surety",
       "awayTeam": "Matthew Selt",
       "time": "02:30",
       "date": "2026-07-10",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Barry Hawkins",
+      "awayTeam": "Lei Peifan",
+      "time": "14:00",
+      "date": "2026-07-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mark Selby",
+      "awayTeam": "Zhou Yuelong",
+      "time": "19:30",
+      "date": "2026-07-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jack Lisowski",
+      "awayTeam": "Zhang Anda",
+      "time": "09:30",
+      "date": "2026-07-28",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Si Jiahui",
+      "awayTeam": "Pang Junxu",
+      "time": "09:30",
+      "date": "2026-07-28",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "K Wilson",
+      "awayTeam": "M J Williams",
+      "time": "14:00",
+      "date": "2026-07-30",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "Zhao Xintong",
+      "awayTeam": "N Robertson",
+      "time": "14:00",
+      "date": "2026-07-30",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "Trump",
+      "awayTeam": "J Higgins",
+      "time": "19:30",
+      "date": "2026-07-30",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open Qual (10-14 Jun 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "S Murphy",
+      "awayTeam": "Wu Yize",
+      "time": "19:30",
+      "date": "2026-07-30",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
