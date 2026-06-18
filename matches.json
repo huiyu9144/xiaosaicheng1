@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-06-18T02:27:47+08:00",
+  "updatedAt": "2026-06-19T02:31:33+08:00",
   "matches": [
     {
       "league": "",
@@ -146,215 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Lei Peifan",
-      "awayTeam": "Jackson Page",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhang Anda",
-      "awayTeam": "Steven Hallworth",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Stuart Bingham",
-      "awayTeam": "Daniel Wells",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "David Gilbert",
-      "awayTeam": "Noppon Saengkham",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jak Jones",
-      "awayTeam": "Matthew Selt",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Elliot Slessor",
-      "awayTeam": "Ryan Day",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Gary Wilson",
-      "awayTeam": "Aaron Hill",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jack Lisowski",
-      "awayTeam": "J Robertson",
-      "time": "17:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Hossein Vafaei",
-      "awayTeam": "Ben Woollaston",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Yuan Sijun",
-      "awayTeam": "Louis Heathcote",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Thepchaiya Un-Nooh",
-      "awayTeam": "Dylan Emery",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ali Carter",
-      "awayTeam": "Tom Ford",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Joe O'Connor",
-      "awayTeam": "Chang Bingyu",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Pang Junxu",
-      "awayTeam": "Oliver Sykes",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhou Yuelong",
-      "awayTeam": "He Guoqiang",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Stephen Maguire",
-      "awayTeam": "Stan Moody",
-      "time": "23:00",
-      "date": "2026-06-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -367,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -380,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -393,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -406,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -419,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -432,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -445,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -458,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -471,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -484,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 3",
       "leagueRound": null,
@@ -497,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 24",
       "leagueRound": null,
@@ -510,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -523,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -536,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -549,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -562,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -575,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -588,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -601,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -614,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -627,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -640,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 2",
       "leagueRound": null,
@@ -653,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 27",
       "leagueRound": null,
@@ -666,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -679,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -692,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -705,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -718,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -731,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -744,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -757,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -770,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -783,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -796,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 10",
       "leagueRound": null,
@@ -809,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 25",
       "leagueRound": null,
@@ -822,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -835,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -848,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -861,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -874,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -887,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -900,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -913,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -926,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -939,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -952,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 20",
       "leagueRound": null,
@@ -965,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 21",
       "leagueRound": null,
@@ -978,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -991,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1004,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -1017,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1030,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -1043,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1056,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -1069,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1082,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -1095,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1108,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 14",
       "leagueRound": null,
@@ -1121,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 28",
       "leagueRound": null,
@@ -1134,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1147,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1160,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1173,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1186,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1199,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1212,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1225,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1238,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1251,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1264,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 8",
       "leagueRound": null,
@@ -1277,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 15",
       "leagueRound": null,
@@ -1290,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1303,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1316,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1329,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1342,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1355,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1368,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1381,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1394,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1407,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1420,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 18",
       "leagueRound": null,
@@ -1433,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 29",
       "leagueRound": null,
@@ -1446,12 +1238,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
       "homeTeam": "Elliot Slessor",
-      "awayTeam": "Daniel Womersley",
+      "awayTeam": "Robert Milkins",
       "time": "18:00",
       "date": "2026-06-30",
       "category": "其他",
@@ -1459,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1472,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
@@ -1485,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1498,12 +1290,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
       "homeTeam": "Liam Pullen",
-      "awayTeam": "Daniel Womersley",
+      "awayTeam": "Robert Milkins",
       "time": "21:00",
       "date": "2026-06-30",
       "category": "其他",
@@ -1511,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1524,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
@@ -1537,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1550,12 +1342,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
       "homeTeam": "Liu Wenwei",
-      "awayTeam": "Daniel Womersley",
+      "awayTeam": "Robert Milkins",
       "time": "01:00",
       "date": "2026-07-01",
       "category": "其他",
@@ -1563,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1576,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 9",
       "leagueRound": null,
@@ -1589,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 23",
       "leagueRound": null,
@@ -1602,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1615,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1628,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1641,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1654,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1667,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1680,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1693,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1706,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1719,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1732,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 5",
       "leagueRound": null,
@@ -1745,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 16",
       "leagueRound": null,
@@ -1758,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1771,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1784,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1797,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1810,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1823,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1836,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1849,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1862,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1875,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1888,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 17",
       "leagueRound": null,
@@ -1901,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 30",
       "leagueRound": null,
@@ -1914,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -1927,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -1940,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -1953,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -1966,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -1979,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -1992,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -2005,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -2018,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -2031,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -2044,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 4",
       "leagueRound": null,
@@ -2057,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 22",
       "leagueRound": null,
@@ -2070,12 +1862,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "Ali Carter",
-      "awayTeam": "Jack Bradford",
+      "awayTeam": "Patrick Whelan",
       "time": "18:00",
       "date": "2026-07-04",
       "category": "其他",
@@ -2083,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2096,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
@@ -2109,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2122,12 +1914,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "Jamie Jones",
-      "awayTeam": "Jack Bradford",
+      "awayTeam": "Patrick Whelan",
       "time": "21:00",
       "date": "2026-07-04",
       "category": "其他",
@@ -2135,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2148,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
@@ -2161,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2174,12 +1966,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
       "homeTeam": "Leone Crowley",
-      "awayTeam": "Jack Bradford",
+      "awayTeam": "Patrick Whelan",
       "time": "01:00",
       "date": "2026-07-05",
       "category": "其他",
@@ -2187,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2200,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 12",
       "leagueRound": null,
@@ -2213,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 19",
       "leagueRound": null,
@@ -2226,24 +2018,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
       "homeTeam": "Stuart Bingham",
-      "awayTeam": "Robert Milkins",
-      "time": "18:00",
-      "date": "2026-07-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp 13",
-      "leagueRound": null,
-      "homeTeam": "Zhou Yuelong",
       "awayTeam": "Mark Joyce",
       "time": "18:00",
       "date": "2026-07-06",
@@ -2252,7 +2031,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp 13",
+      "leagueRound": null,
+      "homeTeam": "Zhou Yuelong",
+      "awayTeam": "Allan Taylor",
+      "time": "18:00",
+      "date": "2026-07-06",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
@@ -2265,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 13",
       "leagueRound": null,
@@ -2278,24 +2070,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
       "homeTeam": "Jordan Brown",
-      "awayTeam": "Robert Milkins",
-      "time": "21:00",
-      "date": "2026-07-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp 13",
-      "leagueRound": null,
-      "homeTeam": "Ben Mertens",
       "awayTeam": "Mark Joyce",
       "time": "21:00",
       "date": "2026-07-06",
@@ -2304,7 +2083,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp 13",
+      "leagueRound": null,
+      "homeTeam": "Ben Mertens",
+      "awayTeam": "Allan Taylor",
+      "time": "21:00",
+      "date": "2026-07-06",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
@@ -2317,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 13",
       "leagueRound": null,
@@ -2330,24 +2122,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
       "homeTeam": "Mateusz Baranowski",
-      "awayTeam": "Robert Milkins",
-      "time": "01:00",
-      "date": "2026-07-07",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp 13",
-      "leagueRound": null,
-      "homeTeam": "Liam Graham",
       "awayTeam": "Mark Joyce",
       "time": "01:00",
       "date": "2026-07-07",
@@ -2356,7 +2135,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp 13",
+      "leagueRound": null,
+      "homeTeam": "Liam Graham",
+      "awayTeam": "Allan Taylor",
+      "time": "01:00",
+      "date": "2026-07-07",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 11",
       "leagueRound": null,
@@ -2369,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 13",
       "leagueRound": null,
@@ -2382,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2395,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2408,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2421,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2434,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2447,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2460,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2473,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2486,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2499,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2512,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 6",
       "leagueRound": null,
@@ -2525,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 26",
       "leagueRound": null,
@@ -2538,12 +2330,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
       "homeTeam": "Jack Lisowski",
-      "awayTeam": "Allan Taylor",
+      "awayTeam": "Jack Bradford",
       "time": "18:00",
       "date": "2026-07-08",
       "category": "其他",
@@ -2551,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2564,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
@@ -2577,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2590,12 +2382,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
       "homeTeam": "Liam Highfield",
-      "awayTeam": "Allan Taylor",
+      "awayTeam": "Jack Bradford",
       "time": "21:00",
       "date": "2026-07-08",
       "category": "其他",
@@ -2603,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2616,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
@@ -2629,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2642,12 +2434,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
       "homeTeam": "Zhao Hanyang",
-      "awayTeam": "Allan Taylor",
+      "awayTeam": "Jack Bradford",
       "time": "01:00",
       "date": "2026-07-09",
       "category": "其他",
@@ -2655,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2668,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 7",
       "leagueRound": null,
@@ -2681,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 31",
       "leagueRound": null,
@@ -2694,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2707,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2720,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2733,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2746,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2759,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2772,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2785,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2798,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2811,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2824,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 1",
       "leagueRound": null,
@@ -2837,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp 32",
       "leagueRound": null,
@@ -2850,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2863,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2876,7 +2668,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2889,7 +2681,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2902,7 +2694,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2915,7 +2707,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2928,7 +2720,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2941,7 +2733,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open Qual (15-18 Jun 2026)",
+      "league": "Championship League Stage One Group 3 (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
