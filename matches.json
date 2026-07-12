@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-12T01:05:56+08:00",
+  "updatedAt": "2026-07-13T01:08:33+08:00",
   "matches": [
     {
       "league": "",
@@ -72,10 +72,10 @@
       "leagueType": "中超",
       "matchStage": "常规赛",
       "leagueRound": 18,
-      "homeTeam": "天津津门虎",
-      "awayTeam": "辽宁铁人",
-      "time": "19:00",
-      "date": "2026-07-12",
+      "homeTeam": "Zhejiang Professional",
+      "awayTeam": "青岛海牛",
+      "time": "19:35",
+      "date": "2026-07-14",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
@@ -285,45 +285,6 @@
       "time": "02:30",
       "date": "2026-08-29",
       "category": "足球",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Scott Donaldson",
-      "awayTeam": "Iulian Boiko",
-      "time": "01:00",
-      "date": "2026-07-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Gary Wilson",
-      "awayTeam": "Stephen Maguire",
-      "time": "02:30",
-      "date": "2026-07-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Zhou Yuelong",
-      "awayTeam": "Noppon Saengkham",
-      "time": "02:30",
-      "date": "2026-07-12",
-      "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
