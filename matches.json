@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-15T01:22:21+08:00",
+  "updatedAt": "2026-07-16T01:25:08+08:00",
   "matches": [
     {
       "league": "",
@@ -187,12 +187,12 @@
     {
       "league": "Championship League (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp G",
+      "matchStage": "Grp 1",
       "leagueRound": null,
-      "homeTeam": "Jack Lisowski",
-      "awayTeam": "Zhang Anda",
+      "homeTeam": "Elliot Slessor",
+      "awayTeam": "Lei Peifan",
       "time": "02:30",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
@@ -200,12 +200,12 @@
     {
       "league": "Championship League (22 Jun - 15 Jul 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Grp H",
+      "matchStage": "Grp 2",
       "leagueRound": null,
-      "homeTeam": "Elliot Slessor",
-      "awayTeam": "Xu Si",
+      "homeTeam": "Zhang Anda",
+      "awayTeam": "Hossein Vafaei",
       "time": "02:30",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
