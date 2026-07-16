@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-16T01:25:08+08:00",
+  "updatedAt": "2026-07-17T01:26:28+08:00",
   "matches": [
     {
       "league": "",
@@ -185,33 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp 1",
-      "leagueRound": null,
-      "homeTeam": "Elliot Slessor",
-      "awayTeam": "Lei Peifan",
-      "time": "02:30",
-      "date": "2026-07-16",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp 2",
-      "leagueRound": null,
-      "homeTeam": "Zhang Anda",
-      "awayTeam": "Hossein Vafaei",
-      "time": "02:30",
-      "date": "2026-07-16",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -224,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -237,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -250,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -263,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -276,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -289,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -302,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -315,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -328,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -341,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -354,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -367,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -380,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -393,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -406,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -419,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -432,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -445,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -458,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -471,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -484,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -497,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -510,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -523,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -536,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -549,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -562,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -575,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -588,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -601,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -614,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -627,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -640,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -653,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -666,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -679,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -692,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -705,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -718,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -731,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -744,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -757,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -770,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -783,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -796,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -809,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -822,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -835,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -848,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -861,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -874,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -887,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -900,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -913,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -926,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -939,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -952,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -965,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -978,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -991,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1004,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1017,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1030,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1043,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1056,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1069,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1082,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1095,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1108,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1121,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1134,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1147,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1160,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1173,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1186,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1199,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1212,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1225,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1238,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1251,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1264,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1277,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1290,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1303,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1316,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1329,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1342,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1355,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1368,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1381,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1394,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1407,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1420,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1433,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1446,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1459,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1472,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1485,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1498,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1511,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1524,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1537,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1550,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1563,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1576,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1589,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1602,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1615,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1628,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1641,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1654,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1667,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1680,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1693,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1706,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1719,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1732,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1745,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1758,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1771,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1784,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1797,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1810,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1823,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1836,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1849,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1862,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1875,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1888,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1901,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1914,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1927,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1940,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1953,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1966,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1979,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1992,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2005,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2018,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2031,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2044,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2057,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2070,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2083,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2096,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2109,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2122,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2135,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2148,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2161,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2174,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -2187,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2200,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2213,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2226,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2239,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2252,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2265,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2278,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2291,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2304,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2317,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2330,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2343,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2356,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2369,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2382,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2395,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2408,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2421,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2434,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2447,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2460,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2473,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2486,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2499,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2512,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2525,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2538,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Championship League (22 Jun - 15 Jul 2026)",
+      "league": "Shenzhen Open Qual (19-22 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
