@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-18T01:19:29+08:00",
+  "updatedAt": "2026-07-19T01:04:54+08:00",
   "matches": [
     {
       "league": "",
@@ -71,11 +71,11 @@
       "league": "",
       "leagueType": "中超",
       "matchStage": "常规赛",
-      "leagueRound": 19,
-      "homeTeam": "重庆铜梁龙",
-      "awayTeam": "Zhejiang Professional",
-      "time": "19:00",
-      "date": "2026-07-18",
+      "leagueRound": 20,
+      "homeTeam": "青岛海牛",
+      "awayTeam": "天津津门虎",
+      "time": "17:30",
+      "date": "2026-07-25",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
