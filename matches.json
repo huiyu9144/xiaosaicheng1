@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-25T01:44:54+08:00",
+  "updatedAt": "2026-07-26T01:08:41+08:00",
   "matches": [
     {
       "league": "",
@@ -98,10 +98,10 @@
       "leagueType": "中超",
       "matchStage": "常规赛",
       "leagueRound": 20,
-      "homeTeam": "青岛海牛",
-      "awayTeam": "天津津门虎",
-      "time": "17:30",
-      "date": "2026-07-25",
+      "homeTeam": "云南玉昆",
+      "awayTeam": "深圳新鹏城",
+      "time": "19:00",
+      "date": "2026-07-26",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
@@ -211,397 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Stephen Maguire",
-      "awayTeam": "Liam Highfield",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liam Davies",
-      "awayTeam": "Craig Steadman",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Robbie Williams",
-      "awayTeam": "He Guoqiang",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jimmy White",
-      "awayTeam": "Sean O'Sullivan",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Lei Peifan",
-      "awayTeam": "Hammad Miah",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ali Carter",
-      "awayTeam": "Stuart Carrington",
-      "time": "02:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Florian N&uuml;&szlig;le",
-      "awayTeam": "Liu Yang",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Dylan Emery",
-      "awayTeam": "Paul Norris",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Chatchapong Nasa",
-      "awayTeam": "Ashley Hugill",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Leone Crowley",
-      "awayTeam": "Andrew Higginson",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mateusz Baranowski",
-      "awayTeam": "Bai Yulu",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Connor Benzey",
-      "awayTeam": "Mitchell Mann",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Xu Yichen",
-      "awayTeam": "Vladislav Gradinari",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Louis Heathcote",
-      "awayTeam": "Huang Jiahao",
-      "time": "17:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Sam Craigie",
-      "awayTeam": "Sean O'Sullivan",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Marco Fu",
-      "awayTeam": "Hammad Miah",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jimmy White",
-      "awayTeam": "Cheung Ka Wai",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "David Grace",
-      "awayTeam": "Deng Haohui",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Fergal Quinn",
-      "awayTeam": "Phil O'Kane",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liam Highfield",
-      "awayTeam": "Michael Larkov",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Iulian Boiko",
-      "awayTeam": "Gong Chenzhi",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mahmoud El Hareedy",
-      "awayTeam": "Luo Zetao",
-      "time": "20:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Craig Steadman",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liu Wenwei",
-      "awayTeam": "Ashley Carty",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Sahil Nayyar",
-      "awayTeam": "Oliver Sykes",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Michal Szubarczyk",
-      "awayTeam": "Julien Leclercq",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Lan Yuhao",
-      "awayTeam": "Antoni Kowalski",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ross Muir",
-      "awayTeam": "Panchaya Channoi",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ng On Yee",
-      "awayTeam": "Jamie Clarke",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Alfie Burden",
-      "awayTeam": "Artemijs Zizins",
-      "time": "23:00",
-      "date": "2026-07-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -614,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -627,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -640,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -653,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -666,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -679,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -692,12 +302,25 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liam Highfield",
+      "awayTeam": "Michael Larkov",
+      "time": "03:30",
+      "date": "2026-07-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Noppon Saengkham",
-      "awayTeam": "N&uuml;&szlig;le",
+      "awayTeam": "Florian N&uuml;&szlig;le",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -705,12 +328,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Michael Holt",
-      "awayTeam": "Emery",
+      "awayTeam": "Dylan Emery",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -718,12 +341,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Matthew Stevens",
-      "awayTeam": "Nasa",
+      "awayTeam": "Ashley Hugill",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -731,12 +354,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Zak Surety",
-      "awayTeam": "L Crowley",
+      "awayTeam": "Leone Crowley",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -744,12 +367,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Jamie Jones",
-      "awayTeam": "Baranowski",
+      "awayTeam": "Mateusz Baranowski",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -757,12 +380,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Oliver Lines",
-      "awayTeam": "Benzey",
+      "awayTeam": "Connor Benzey",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -770,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -783,12 +406,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ishpreet Singh Chadha",
-      "awayTeam": "Heathcote",
+      "awayTeam": "Louis Heathcote",
       "time": "17:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -796,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -809,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -822,12 +445,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Chang Bingyu",
-      "awayTeam": "J White",
+      "awayTeam": "Cheung Ka Wai",
       "time": "20:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -835,12 +458,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Stan Moody",
-      "awayTeam": "Grace",
+      "awayTeam": "David Grace",
       "time": "20:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -848,12 +471,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Jackson Page",
-      "awayTeam": "F Quinn",
+      "awayTeam": "Phil O'Kane",
       "time": "20:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -861,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -874,12 +497,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "He Guoqiang",
-      "awayTeam": "Boiko",
+      "awayTeam": "Gong Chenzhi",
       "time": "20:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -887,12 +510,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Scott Donaldson",
-      "awayTeam": "El Hareedy",
+      "awayTeam": "Luo Zetao",
       "time": "20:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -900,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -913,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -926,12 +549,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Fan Zhengyi",
-      "awayTeam": "Nayyar",
+      "awayTeam": "Oliver Sykes",
       "time": "23:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -939,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -952,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -965,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -978,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -991,12 +614,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Martin O'Donnell",
-      "awayTeam": "Burden",
+      "awayTeam": "Artemijs Zizins",
       "time": "23:00",
       "date": "2026-07-26",
       "category": "其他",
@@ -1004,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1017,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1030,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1043,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1056,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1069,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1082,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1095,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1108,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1121,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1147,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1160,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -1173,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -1186,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -1199,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -1212,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1225,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1238,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1264,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1277,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1290,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1303,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1316,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1329,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1342,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1355,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1368,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1394,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1407,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1485,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1498,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1524,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1537,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1550,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1563,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1576,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1628,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1641,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1654,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1667,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1680,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1693,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1706,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1719,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1732,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1745,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1758,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1771,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1784,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1797,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1810,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1823,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1836,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1849,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1862,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1875,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1888,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1901,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1914,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1927,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1940,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1953,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1966,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1979,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1992,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2005,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2018,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2031,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open Qual (23-24 Jul 2026)",
+      "league": "English Open Qual (25-26 Jul 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
