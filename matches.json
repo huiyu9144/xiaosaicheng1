@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-27T01:10:38+08:00",
+  "updatedAt": "2026-07-28T01:49:29+08:00",
   "matches": [
     {
       "league": "",
@@ -211,202 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Ben Mertens",
-      "awayTeam": "T Tirapongpaiboon",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Matthew Selt",
-      "awayTeam": "Duane Jones",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Lyu Haotian",
-      "awayTeam": "Stuart Carrington",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Daniel Wells",
-      "awayTeam": "Liam Graham",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Long Zehuang",
-      "awayTeam": "Wang Xinbo",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Liu Hongyu",
-      "awayTeam": "Liam Davies",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Aaron Hill",
-      "awayTeam": "Anton Kazakov",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Jiang Jun",
-      "awayTeam": "Gao Yang",
-      "time": "02:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Robbie Williams",
-      "awayTeam": "Liam Highfield",
-      "time": "04:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Chris Wakelin",
-      "awayTeam": "Tang Hewen",
-      "time": "09:30",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Xiao Guodong",
-      "awayTeam": "Xu Jiarui",
-      "time": "09:30",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ding Junhui",
-      "awayTeam": "Yao Dongcheng",
-      "time": "14:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Barry Hawkins",
-      "awayTeam": "Lei Peifan",
-      "time": "14:00",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ronnie O'Sullivan",
-      "awayTeam": "Liu Linhao",
-      "time": "19:30",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mark Selby",
-      "awayTeam": "Zhou Yuelong",
-      "time": "19:30",
-      "date": "2026-07-27",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,12 +237,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Mark J Williams",
-      "awayTeam": "C Wakelin",
+      "awayTeam": "Chris Wakelin",
       "time": "14:00",
       "date": "2026-07-28",
       "category": "其他",
@@ -445,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -458,12 +263,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Kyren Wilson",
-      "awayTeam": "R O'Sullivan",
+      "awayTeam": "Ronnie O'Sullivan",
       "time": "19:30",
       "date": "2026-07-28",
       "category": "其他",
@@ -471,12 +276,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Judd Trump",
-      "awayTeam": "Hawkins",
+      "awayTeam": "Barry Hawkins",
       "time": "19:30",
       "date": "2026-07-28",
       "category": "其他",
@@ -484,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -497,12 +302,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Shaun Murphy",
-      "awayTeam": "Selby",
+      "awayTeam": "Zhou Yuelong",
       "time": "14:00",
       "date": "2026-07-29",
       "category": "其他",
@@ -510,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -523,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -536,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -549,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -562,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -575,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -588,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,12 +822,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Si Jiahui",
-      "awayTeam": "R Williams",
+      "awayTeam": "Robbie Williams",
       "time": "17:00",
       "date": "2026-09-07",
       "category": "其他",
@@ -1030,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1095,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1108,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1121,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1147,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1160,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1173,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1186,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1199,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1212,12 +1017,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Xiao Guodong",
-      "awayTeam": "Pullen",
+      "awayTeam": "Ross Muir",
       "time": "17:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1225,12 +1030,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Thepchaiya Un-Nooh",
-      "awayTeam": "Long Zehuang",
+      "awayTeam": "Wang Xinbo",
       "time": "17:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1238,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,12 +1056,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Pang Junxu",
-      "awayTeam": "Brecel",
+      "awayTeam": "Antoni Kowalski",
       "time": "20:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1264,12 +1069,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Xu Si",
-      "awayTeam": "A Hill",
+      "awayTeam": "Aaron Hill",
       "time": "20:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1277,12 +1082,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Wu Yize",
-      "awayTeam": "Jiang Jun",
+      "awayTeam": "Gao Yang",
       "time": "20:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1290,12 +1095,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Lei Peifan",
-      "awayTeam": "Woollaston",
+      "awayTeam": "Ashley Carty",
       "time": "22:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1303,12 +1108,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Mark J Williams",
-      "awayTeam": "Mertens",
+      "awayTeam": "T Tirapongpaiboon",
       "time": "22:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1316,12 +1121,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Hossein Vafaei",
-      "awayTeam": "Selt",
+      "awayTeam": "Matthew Selt",
       "time": "22:00",
       "date": "2026-09-08",
       "category": "其他",
@@ -1329,25 +1134,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ronnie O'Sullivan",
-      "awayTeam": "Liu Hongyu",
-      "time": "22:00",
-      "date": "2026-09-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Judd Trump",
-      "awayTeam": "J Brown",
+      "awayTeam": "Jordan Brown",
       "time": "02:00",
       "date": "2026-09-09",
       "category": "其他",
@@ -1355,12 +1147,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "David Gilbert",
-      "awayTeam": "R Day",
+      "awayTeam": "Jamie Clarke",
       "time": "02:00",
       "date": "2026-09-09",
       "category": "其他",
@@ -1368,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,12 +1173,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Gary Wilson",
-      "awayTeam": "Wells",
+      "awayTeam": "Daniel Wells",
       "time": "02:00",
       "date": "2026-09-09",
       "category": "其他",
@@ -1394,12 +1186,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Stuart Bingham",
-      "awayTeam": "McGill",
+      "awayTeam": "Anthony McGill",
       "time": "04:00",
       "date": "2026-09-09",
       "category": "其他",
@@ -1407,12 +1199,12 @@
       "status": "upcoming"
     },
     {
-      "league": "English Open Qual (25-26 Jul 2026)",
+      "league": "Shanghai Masters (27 Jul - 2 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Shaun Murphy",
-      "awayTeam": "O'Donnell",
+      "awayTeam": "Artemijs Zizins",
       "time": "04:00",
       "date": "2026-09-09",
       "category": "其他",
