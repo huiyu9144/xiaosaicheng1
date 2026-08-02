@@ -1,7 +1,72 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-02T01:12:49+08:00",
+  "updatedAt": "2026-08-03T01:08:45+08:00",
   "matches": [
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Week 11",
+      "leagueRound": null,
+      "homeTeam": "BRO",
+      "awayTeam": "NS",
+      "time": "16:00",
+      "date": "2026-08-05",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Week 11",
+      "leagueRound": null,
+      "homeTeam": "HLE",
+      "awayTeam": "GEN",
+      "time": "18:00",
+      "date": "2026-08-05",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Week 11",
+      "leagueRound": null,
+      "homeTeam": "DRX",
+      "awayTeam": "SOOP",
+      "time": "16:00",
+      "date": "2026-08-06",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Week 11",
+      "leagueRound": null,
+      "homeTeam": "DK",
+      "awayTeam": "T1",
+      "time": "18:00",
+      "date": "2026-08-06",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Week 11",
+      "leagueRound": null,
+      "homeTeam": "KT",
+      "awayTeam": "GEN",
+      "time": "16:00",
+      "date": "2026-08-07",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
     {
       "league": "",
       "leagueType": "NBA",
@@ -19,13 +84,13 @@
       "league": "",
       "leagueType": "中超",
       "matchStage": "常规赛",
-      "leagueRound": 21,
-      "homeTeam": "青岛西海岸",
-      "awayTeam": "青岛海牛",
-      "time": "18:00",
-      "date": "2026-08-02",
+      "leagueRound": 22,
+      "homeTeam": "北京国安",
+      "awayTeam": "深圳新鹏城",
+      "time": "19:35",
+      "date": "2026-08-07",
       "category": "足球",
-      "isImportant": false,
+      "isImportant": true,
       "status": "upcoming"
     },
     {
@@ -133,124 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Sankar Maharajan",
-      "awayTeam": "Steve Jay",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Alan McCarthy",
-      "awayTeam": "Peter Quinlivan",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "David Wright",
-      "awayTeam": "Adam Waller",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Adrian Ridley",
-      "awayTeam": "James Mifsud",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Adrian Law",
-      "awayTeam": "Stephen Hanna",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Moti Pakharin",
-      "awayTeam": "Shaun Dalitz",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Amol Abdagiri",
-      "awayTeam": "Max Handley",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Jessica Woods",
-      "awayTeam": "Hassan Kerde",
-      "time": "07:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Kyren Wilson",
-      "awayTeam": "Judd Trump",
-      "time": "14:00",
-      "date": "2026-08-02",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -263,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -289,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -302,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -341,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -380,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 3 (31 Jul - 2 Aug 2026)",
+      "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
