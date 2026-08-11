@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-11T01:02:58+08:00",
+  "updatedAt": "2026-08-12T01:07:07+08:00",
   "matches": [
     {
       "league": "",
@@ -83,45 +83,6 @@
     {
       "league": "China Open (8-16 Aug 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "John Higgins",
-      "awayTeam": "Stuart Bingham",
-      "time": "14:00",
-      "date": "2026-08-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open (8-16 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Chris Wakelin",
-      "awayTeam": "Tom Ford",
-      "time": "19:30",
-      "date": "2026-08-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open (8-16 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhao Xintong",
-      "awayTeam": "Zhang Anda",
-      "time": "19:30",
-      "date": "2026-08-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "China Open (8-16 Aug 2026)",
-      "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Zhou Yuelong",
@@ -167,6 +128,58 @@
       "awayTeam": "Shaun Murphy",
       "time": "19:30",
       "date": "2026-08-12",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open (8-16 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Neil Robertson",
+      "awayTeam": "Si Jiahui",
+      "time": "14:00",
+      "date": "2026-08-13",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open (8-16 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Stuart Bingham",
+      "awayTeam": "Hossein Vafaei",
+      "time": "14:00",
+      "date": "2026-08-13",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open (8-16 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Mark Selby",
+      "awayTeam": "Kyren Wilson",
+      "time": "19:30",
+      "date": "2026-08-13",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "China Open (8-16 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Chris Wakelin",
+      "awayTeam": "Zhang Anda",
+      "time": "19:30",
+      "date": "2026-08-13",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
