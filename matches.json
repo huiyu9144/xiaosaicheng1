@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-29T08:33:56+08:00",
+  "updatedAt": "2026-08-30T03:23:43+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LCK",
-      "matchStage": "Upper Bracket Round 1",
-      "leagueRound": null,
-      "homeTeam": "T1",
-      "awayTeam": "BFX",
-      "time": "16:00",
-      "date": "2026-08-29",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LCK",
@@ -43,500 +30,110 @@
     },
     {
       "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Upper Bracket Round 2",
+      "leagueRound": null,
+      "homeTeam": "HLE",
+      "awayTeam": "BFX",
+      "time": "16:00",
+      "date": "2026-09-02",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
       "leagueType": "中超",
       "matchStage": "常规赛",
-      "leagueRound": 25,
-      "homeTeam": "青岛海牛",
-      "awayTeam": "武汉三镇",
-      "time": "17:00",
-      "date": "2026-08-29",
+      "leagueRound": 26,
+      "homeTeam": "武汉三镇",
+      "awayTeam": "青岛西海岸",
+      "time": "19:00",
+      "date": "2026-09-05",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Zhao Xintong",
-      "awayTeam": "Chang Bingyu",
-      "time": "14:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Allan Taylor",
-      "awayTeam": "Edward Jones",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Haris Tahir",
-      "awayTeam": "Nathan Jones",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Dylan Smith",
-      "awayTeam": "Mark Lloyd",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Umut Dikme",
-      "awayTeam": "Jamie O'Neill",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Brian Ochoiski",
-      "awayTeam": "Vladislav Gradinari",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Andy Lee",
-      "awayTeam": "George Pragnell",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Barry Pinches",
-      "awayTeam": "Jake Crofts",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Harvey Chandler",
-      "awayTeam": "Daniel Womersley",
-      "time": "17:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Robert Milkins",
-      "awayTeam": "Stuart Watson",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Sean McAllister",
-      "awayTeam": "Robbie McGuigan",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Riley Powell",
-      "awayTeam": "Farakh Ajaib",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "James Silverwood",
-      "awayTeam": "Martyn Taylor",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
+      "matchStage": "Rd 5",
       "leagueRound": null,
       "homeTeam": "Simon Blackwell",
-      "awayTeam": "Peter Lines",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Sybren Sokolowski",
-      "awayTeam": "Rory McLeod",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Mark Davis",
       "awayTeam": "Hamim Hussain",
-      "time": "19:00",
-      "date": "2026-08-29",
+      "time": "01:00",
+      "date": "2026-08-30",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
+      "matchStage": "QF",
       "leagueRound": null,
-      "homeTeam": "Shachar Ruberg",
-      "awayTeam": "Duane Jones",
-      "time": "19:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Shaun Liu",
-      "awayTeam": "Chris Totten",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Jeff Cundy",
-      "awayTeam": "Paul Deaville",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Jack Borwick",
+      "homeTeam": "Paul Deaville",
       "awayTeam": "Sanderson Lam",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Ryan Davies",
-      "awayTeam": "Dean Young",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Mark Joyce",
-      "awayTeam": "Alfie Davies",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Sebastian Milewski",
-      "awayTeam": "Lewis Harper",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Haydon Pinhey",
-      "awayTeam": "Peter Devlin",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Yaron Bodor",
-      "awayTeam": "Patrick Whelan",
-      "time": "21:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "A Taylor",
-      "awayTeam": "Tahir",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "D Smith",
-      "awayTeam": "U Dikme",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "B Ochoiski",
-      "awayTeam": "Andy Lee",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "B Pinches",
-      "awayTeam": "Chandler",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Milkins",
-      "awayTeam": "McAllister",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Powell",
-      "awayTeam": "Silverwood",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Blackwell",
-      "awayTeam": "Sokolowski",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Mark Davis",
-      "awayTeam": "Ruberg",
-      "time": "23:00",
-      "date": "2026-08-29",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
-      "leagueRound": null,
-      "homeTeam": "Shaun Liu",
-      "awayTeam": "Cundy",
-      "time": "01:00",
+      "time": "17:00",
       "date": "2026-08-30",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
-      "leagueRound": null,
-      "homeTeam": "Borwick",
-      "awayTeam": "R Davies",
-      "time": "01:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Wuhan Open (23-29 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
+      "matchStage": "QF",
       "leagueRound": null,
       "homeTeam": "M Joyce",
-      "awayTeam": "Milewski",
-      "time": "01:00",
+      "awayTeam": "Patrick Whelan",
+      "time": "17:00",
       "date": "2026-08-30",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
+      "matchStage": "QF",
       "leagueRound": null,
-      "homeTeam": "Pinhey",
-      "awayTeam": "Bodor",
-      "time": "01:00",
+      "homeTeam": "Tahir",
+      "awayTeam": "B Ochoiski",
+      "time": "17:00",
       "date": "2026-08-30",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "McAllister",
+      "awayTeam": "Blackwell",
+      "time": "17:00",
+      "date": "2026-08-30",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "SF",
+      "leagueRound": null,
+      "homeTeam": "Deaville",
+      "awayTeam": "P Whelan",
+      "time": "20:00",
+      "date": "2026-08-30",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -549,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -562,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -575,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -588,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -601,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -614,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -627,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -640,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -653,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -666,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -679,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -692,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -705,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -718,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -731,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -744,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -757,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -770,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -783,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -796,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -809,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -822,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -835,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -848,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -861,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -874,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -887,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -900,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -913,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -926,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1095,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1108,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1121,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1147,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1160,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1173,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1186,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1199,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1212,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1225,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1238,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1264,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1277,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1290,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1303,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1316,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1329,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1342,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1355,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1368,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1394,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1407,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1485,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1498,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Wuhan Open (23-29 Aug 2026)",
+      "league": "Q Tour 1 (27-30 Aug 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
