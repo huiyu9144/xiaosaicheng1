@@ -1,27 +1,14 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-30T03:23:43+08:00",
+  "updatedAt": "2026-08-31T03:17:47+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LCK",
-      "matchStage": "Upper Bracket Round 1",
-      "leagueRound": null,
-      "homeTeam": "DK",
-      "awayTeam": "KT",
-      "time": "16:00",
-      "date": "2026-08-30",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LCK",
       "matchStage": "Upper Bracket Round 2",
       "leagueRound": null,
       "homeTeam": "GEN",
-      "awayTeam": "HLE",
+      "awayTeam": "KT",
       "time": "16:00",
       "date": "2026-09-01",
       "category": "电竞",
@@ -34,9 +21,22 @@
       "matchStage": "Upper Bracket Round 2",
       "leagueRound": null,
       "homeTeam": "HLE",
-      "awayTeam": "BFX",
+      "awayTeam": "T1",
       "time": "16:00",
       "date": "2026-09-02",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Lower Bracket Round 1",
+      "leagueRound": null,
+      "homeTeam": "DK",
+      "awayTeam": "BFX",
+      "time": "16:00",
+      "date": "2026-09-03",
       "category": "电竞",
       "isImportant": true,
       "status": "upcoming"
@@ -55,85 +55,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
+      "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Simon Blackwell",
-      "awayTeam": "Hamim Hussain",
-      "time": "01:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Paul Deaville",
-      "awayTeam": "Sanderson Lam",
-      "time": "17:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "M Joyce",
-      "awayTeam": "Patrick Whelan",
-      "time": "17:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Tahir",
-      "awayTeam": "B Ochoiski",
-      "time": "17:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "McAllister",
-      "awayTeam": "Blackwell",
-      "time": "17:00",
-      "date": "2026-08-30",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Deaville",
-      "awayTeam": "P Whelan",
+      "homeTeam": "Iulian Boiko",
+      "awayTeam": "Xu Yichen",
       "time": "20:00",
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -146,20 +81,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Xiao Guodong",
-      "awayTeam": "Jiang Jun",
-      "time": "20:00",
-      "date": "2026-08-31",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -172,7 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -185,7 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -198,7 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -211,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -224,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -237,7 +159,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Xiao Guodong",
+      "awayTeam": "Jiang Jun",
+      "time": "02:00",
+      "date": "2026-09-01",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -250,20 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Oliver Brown",
-      "awayTeam": "Zhao Xintong",
-      "time": "02:00",
-      "date": "2026-09-01",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -276,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -289,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -302,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -315,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -328,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -341,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -354,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -367,20 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Iulian Boiko",
-      "awayTeam": "Xu Yichen",
-      "time": "20:00",
-      "date": "2026-09-01",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -393,7 +302,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Oliver Brown",
+      "awayTeam": "Zhao Xintong",
+      "time": "20:00",
+      "date": "2026-09-01",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -406,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -419,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -432,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -445,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -458,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -471,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -484,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -497,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -510,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -523,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1095,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1108,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 1 (27-30 Aug 2026)",
+      "league": "British Open (31 Aug - 6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
