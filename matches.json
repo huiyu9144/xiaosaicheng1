@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-04T03:17:12+08:00",
+  "updatedAt": "2026-09-05T02:59:19+08:00",
   "matches": [
-    {
-      "league": "",
-      "leagueType": "LCK",
-      "matchStage": "Lower Bracket Round 2",
-      "leagueRound": null,
-      "homeTeam": "KT",
-      "awayTeam": "DK",
-      "time": "16:00",
-      "date": "2026-09-04",
-      "category": "电竞",
-      "isImportant": true,
-      "status": "upcoming"
-    },
     {
       "league": "",
       "leagueType": "LCK",
@@ -24,6 +11,19 @@
       "awayTeam": "HLE",
       "time": "16:00",
       "date": "2026-09-05",
+      "category": "电竞",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "LCK",
+      "matchStage": "Lower Bracket Round 3",
+      "leagueRound": null,
+      "homeTeam": "T1",
+      "awayTeam": "DK",
+      "time": "16:00",
+      "date": "2026-09-06",
       "category": "电竞",
       "isImportant": true,
       "status": "upcoming"
@@ -42,202 +42,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Judd Trump",
-      "awayTeam": "David Gilbert",
-      "time": "04:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Fan Zhengyi",
-      "awayTeam": "Aaron Hill",
-      "time": "04:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Zhao Xintong",
-      "awayTeam": "Mark Joyce",
-      "time": "04:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Liam Highfield",
-      "awayTeam": "Long Zehuang",
-      "time": "04:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Tessa Davidson",
-      "awayTeam": "Shiu Wing Man",
-      "time": "19:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Panchaya Channoi",
-      "awayTeam": "So Man Yan",
-      "time": "22:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Anupama Ramachandran",
-      "awayTeam": "Lau Yuk Fan",
-      "time": "22:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Narucha Phoemphul",
-      "awayTeam": "Cheung Yee Ting",
-      "time": "22:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Elizabeth Black",
-      "awayTeam": "Liu Ziling",
-      "time": "22:00",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Kara Cox",
-      "awayTeam": "Chris Sharpe",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Anna Prisjaznuka",
-      "awayTeam": "Zeinab Shahi",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Ng On Yee",
-      "awayTeam": "Emma Brown",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Connie Stephens",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Bai Yulu",
-      "awayTeam": "Selina Dean",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Lynn Shi",
-      "awayTeam": "Deborah Fladgate",
-      "time": "23:30",
-      "date": "2026-09-04",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -250,7 +55,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -263,7 +68,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -276,7 +81,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -289,7 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -302,20 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Cheung Yee Ting",
-      "awayTeam": "Tessa Davidson",
-      "time": "17:00",
-      "date": "2026-09-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -328,7 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -341,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -354,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -367,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -380,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -393,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -406,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -419,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -432,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -445,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -458,20 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Connie Stephens",
-      "awayTeam": "Sophie Nix",
-      "time": "18:30",
-      "date": "2026-09-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -484,7 +263,20 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Kara Cox",
+      "awayTeam": "Chris Sharpe",
+      "time": "20:00",
+      "date": "2026-09-05",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -497,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -510,20 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Shiu Wing Man",
-      "awayTeam": "Cheung Yee Ting",
-      "time": "20:00",
-      "date": "2026-09-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -536,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -549,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -562,20 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Mhairi Mackay",
-      "awayTeam": "Connie Stephens",
-      "time": "20:00",
-      "date": "2026-09-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -588,7 +354,20 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "SF",
+      "leagueRound": null,
+      "homeTeam": "Mark Selby",
+      "awayTeam": "Liam Highfield",
+      "time": "20:00",
+      "date": "2026-09-05",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -601,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -614,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -627,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -640,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -653,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -666,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -679,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -692,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -705,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -718,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1095,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1108,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1121,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1134,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1147,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1160,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1173,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1186,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1199,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1212,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1225,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1238,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1251,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1264,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1277,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1290,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1303,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1316,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1329,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1342,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1355,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1368,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1381,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1394,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1407,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1420,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1433,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1446,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1459,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1472,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1485,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1498,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1511,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 1",
       "leagueRound": null,
@@ -1524,11 +1303,24 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Liu Hongyu",
+      "awayTeam": "R Evans",
+      "time": "17:00",
+      "date": "2026-09-15",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Anthony McGill",
       "awayTeam": "Benzey",
       "time": "17:00",
       "date": "2026-09-15",
@@ -1537,11 +1329,24 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
-      "homeTeam": "Anthony McGill",
+      "homeTeam": "David Lilley",
+      "awayTeam": "L Graham",
+      "time": "17:00",
+      "date": "2026-09-15",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Yuan Sijun",
       "awayTeam": "Baranowski",
       "time": "17:00",
       "date": "2026-09-15",
@@ -1550,38 +1355,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "David Lilley",
-      "awayTeam": "Boiko",
-      "time": "17:00",
-      "date": "2026-09-15",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Yuan Sijun",
-      "awayTeam": "L J Davies",
-      "time": "17:00",
-      "date": "2026-09-15",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Aaron Hill",
-      "awayTeam": "O Brown",
+      "awayTeam": "Muir",
       "time": "20:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1589,12 +1368,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ben Mertens",
-      "awayTeam": "J White",
+      "awayTeam": "Boiko",
       "time": "20:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1602,12 +1381,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
-      "awayTeam": "Xu Yichen",
+      "awayTeam": "F Quinn",
       "time": "20:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1615,12 +1394,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Fan Zhengyi",
-      "awayTeam": "I Burns",
+      "awayTeam": "L J Davies",
       "time": "20:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1628,12 +1407,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Lyu Haotian",
-      "awayTeam": "Ursenbacher",
+      "awayTeam": "Heathcote",
       "time": "23:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1641,12 +1420,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Matthew Selt",
-      "awayTeam": "Yao P",
+      "awayTeam": "O Brown",
       "time": "23:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1654,12 +1433,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ishpreet Singh Chadha",
-      "awayTeam": "Nayyar",
+      "awayTeam": "Sam Craigie",
       "time": "23:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1667,12 +1446,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Xu Si",
-      "awayTeam": "Nasa",
+      "awayTeam": "J White",
       "time": "23:00",
       "date": "2026-09-15",
       "category": "其他",
@@ -1680,12 +1459,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "He Guoqiang",
-      "awayTeam": "Grace",
+      "awayTeam": "Zhao H",
       "time": "02:00",
       "date": "2026-09-16",
       "category": "其他",
@@ -1693,12 +1472,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Jamie Jones",
-      "awayTeam": "Lan Yuhao",
+      "awayTeam": "Xu Yichen",
       "time": "02:00",
       "date": "2026-09-16",
       "category": "其他",
@@ -1706,12 +1485,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Matthew Stevens",
-      "awayTeam": "Szubarczyk",
+      "awayTeam": "Marco Fu",
       "time": "02:00",
       "date": "2026-09-16",
       "category": "其他",
@@ -1719,12 +1498,12 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ricky Walden",
-      "awayTeam": "L Crowley",
+      "awayTeam": "I Burns",
       "time": "02:00",
       "date": "2026-09-16",
       "category": "其他",
@@ -1732,7 +1511,215 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Long Zehuang",
+      "awayTeam": "Gao Y",
+      "time": "17:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Zak Surety",
+      "awayTeam": "Ursenbacher",
+      "time": "17:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Oliver Lines",
+      "awayTeam": "Zizins",
+      "time": "17:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Stan Moody",
+      "awayTeam": "Yao P",
+      "time": "17:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ben Woollaston",
+      "awayTeam": "Pullen",
+      "time": "20:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Robbie Williams",
+      "awayTeam": "Nayyar",
+      "time": "20:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Luca Brecel",
+      "awayTeam": "Liu W",
+      "time": "20:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Martin O'Donnell",
+      "awayTeam": "Nasa",
+      "time": "20:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jiang Jun",
+      "awayTeam": "Highfield",
+      "time": "23:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Tom Ford",
+      "awayTeam": "Grace",
+      "time": "23:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Daniel Wells",
+      "awayTeam": "Emery",
+      "time": "23:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ryan Day",
+      "awayTeam": "Lan Y",
+      "time": "23:00",
+      "date": "2026-09-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Michael Holt",
+      "awayTeam": "N&uuml;&szlig;le",
+      "time": "02:00",
+      "date": "2026-09-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jordan Brown",
+      "awayTeam": "Szubarczyk",
+      "time": "02:00",
+      "date": "2026-09-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jackson Page",
+      "awayTeam": "Hallworth",
+      "time": "02:00",
+      "date": "2026-09-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Scott Donaldson",
+      "awayTeam": "L Crowley",
+      "time": "02:00",
+      "date": "2026-09-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1745,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1758,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1771,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1784,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1797,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1810,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1823,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1836,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1849,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1862,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1875,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1888,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1901,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1914,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1927,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1940,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1953,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1966,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1979,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1992,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2005,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2018,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2031,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2044,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2057,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2070,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2083,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2096,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2109,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2122,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2135,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2148,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2161,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2174,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2187,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2200,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2213,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2226,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2239,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2252,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2265,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2278,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2291,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2304,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2317,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2330,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2343,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2356,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2369,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2382,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2395,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2408,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2421,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2434,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2447,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2460,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2473,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2486,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2499,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2512,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2525,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2538,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2603,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2616,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2629,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2642,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2655,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2668,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "British Open (31 Aug - 6 Sep 2026)",
+      "league": "UK Women's Championship (4-6 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
