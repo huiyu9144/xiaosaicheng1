@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T02:46:09+08:00",
+  "updatedAt": "2026-09-22T04:24:53+08:00",
   "matches": [
     {
       "league": "",
@@ -16,475 +16,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Oliver Sykes",
-      "time": "17:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mateusz Baranowski",
-      "awayTeam": "Patrick Whelan",
-      "time": "17:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "T Tirapongpaiboon",
-      "awayTeam": "Paul Norris",
-      "time": "17:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liam Davies",
-      "awayTeam": "Julien Leclercq",
-      "time": "17:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Michal Kotiuk",
-      "awayTeam": "Robert Read",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Vladislav Gradinari",
-      "awayTeam": "Brandon Nguyen",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "David Nistor",
-      "awayTeam": "George Pragnell",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Christian Richter",
-      "awayTeam": "Witold Bystrzycki",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Krzysztof Czapnik",
-      "awayTeam": "Nikolay Popov",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Kayden Brierley",
-      "awayTeam": "Aidan Murphy",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Pierre-Olivier Legrand",
-      "awayTeam": "Dean Young",
-      "time": "19:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liu Wenwei",
-      "awayTeam": "Andrew Higginson",
-      "time": "20:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Wang Xinbo",
-      "awayTeam": "Luo Zetao",
-      "time": "20:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Marco Fu",
-      "awayTeam": "Onyee Ng",
-      "time": "20:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Artemijs Zizins",
-      "awayTeam": "Craig Steadman",
-      "time": "20:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Amir Nardeia",
-      "awayTeam": "Phuntsok Jaegers",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Halim Hussain",
-      "awayTeam": "Peter Lines",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Luke Flanagan",
-      "awayTeam": "Corina Maracine",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "David Elahi",
-      "awayTeam": "Callum Beresford",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jay Bullen",
-      "awayTeam": "Tomasz Skalski",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mikayel Nersisyan",
-      "awayTeam": "Jack Bradford",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Yaron Bodor",
-      "awayTeam": "Hayden Staniland",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Daniel Williams",
-      "awayTeam": "Luke Pinches",
-      "time": "21:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Oliver Briffett-Payne",
-      "awayTeam": "Muneer Abu Rokin",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Tudor Popescu",
-      "awayTeam": "Bulcsu Revesz",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Edward Jones",
-      "awayTeam": "Martin Orinak",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Tadija Matijasevic",
-      "awayTeam": "Peter Devlin",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ian Martin",
-      "awayTeam": "Aleks Garev",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "David Grace",
-      "awayTeam": "Sean O'Sullivan",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Connor Benzey",
-      "awayTeam": "Anton Kazakov",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Lan Yuhao",
-      "awayTeam": "Joshua Thomond",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Liam Graham",
-      "awayTeam": "Bai Yulu",
-      "time": "23:00",
-      "date": "2026-09-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jamie Clarke",
-      "awayTeam": "Fergal Quinn",
-      "time": "02:00",
-      "date": "2026-09-22",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhao Hanyang",
-      "awayTeam": "Phil O'Kane",
-      "time": "02:00",
-      "date": "2026-09-22",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ian Burns",
-      "awayTeam": "Liu Yang",
-      "time": "02:00",
-      "date": "2026-09-22",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Q Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Leone Crowley",
-      "awayTeam": "Jimmy White",
-      "time": "02:00",
-      "date": "2026-09-22",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +29,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +42,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +55,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +68,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +81,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -705,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -718,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -731,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -744,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -861,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -874,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -887,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -900,12 +432,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Sanderson Lam",
-      "awayTeam": "Kotiuk",
+      "awayTeam": "Robert Read",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -913,12 +445,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Gradinari",
-      "awayTeam": "Nistor",
+      "homeTeam": "Vladislav Gradinari",
+      "awayTeam": "George Pragnell",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -926,12 +458,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Daniel Womersley",
-      "awayTeam": "Richter",
+      "awayTeam": "Witold Bystrzycki",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -939,11 +471,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Czapnik",
+      "homeTeam": "Krzysztof Czapnik",
       "awayTeam": "Alfie Davies",
       "time": "21:00",
       "date": "2026-09-22",
@@ -952,12 +484,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Shaun Liu",
-      "awayTeam": "Brierley",
+      "awayTeam": "Kayden Brierley",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -965,12 +497,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Kaylan Patel",
-      "awayTeam": "Legrand",
+      "awayTeam": "Dean Young",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -978,12 +510,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Nardeia",
-      "awayTeam": "Halim Hussain",
+      "homeTeam": "Phuntsok Jaegers",
+      "awayTeam": "Peter Lines",
       "time": "21:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -991,11 +523,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Flanagan",
+      "homeTeam": "Luke Flanagan",
       "awayTeam": "Sebastian Milewski",
       "time": "21:00",
       "date": "2026-09-22",
@@ -1004,12 +536,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Simon Blackwell",
-      "awayTeam": "Elahi",
+      "awayTeam": "Callum Beresford",
       "time": "23:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -1017,12 +549,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "J Bullen",
-      "awayTeam": "Nersisyan",
+      "homeTeam": "Tomasz Skalski",
+      "awayTeam": "Jack Bradford",
       "time": "23:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -1030,12 +562,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Bodor",
-      "awayTeam": "D Williams",
+      "homeTeam": "Yaron Bodor",
+      "awayTeam": "Luke Pinches",
       "time": "23:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -1043,11 +575,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "Briffett-Payne",
+      "homeTeam": "Oliver Briffett-Payne",
       "awayTeam": "Ryan Davies",
       "time": "23:00",
       "date": "2026-09-22",
@@ -1056,12 +588,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Shachar Ruberg",
-      "awayTeam": "Popescu",
+      "awayTeam": "Bulcsu Revesz",
       "time": "23:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -1069,12 +601,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "E Jones",
-      "awayTeam": "Matijasevic",
+      "homeTeam": "Edward Jones",
+      "awayTeam": "Peter Devlin",
       "time": "23:00",
       "date": "2026-09-22",
       "category": "其他",
@@ -1082,11 +614,11 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
-      "homeTeam": "I Martin",
+      "homeTeam": "Ian Martin",
       "awayTeam": "Cini",
       "time": "23:00",
       "date": "2026-09-22",
@@ -1095,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1121,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1134,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1147,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1160,12 +692,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ryan Day",
-      "awayTeam": "Szubarczyk",
+      "awayTeam": "Michal Szubarczyk",
       "time": "02:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1173,12 +705,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "He Guoqiang",
-      "awayTeam": "Gao Y",
+      "awayTeam": "Gao Yang",
       "time": "02:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1186,12 +718,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Jimmy Robertson",
-      "awayTeam": "Hallworth",
+      "awayTeam": "Steven Hallworth",
       "time": "02:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1199,12 +731,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Oliver Lines",
-      "awayTeam": "Carty",
+      "awayTeam": "Ashley Carty",
       "time": "02:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1212,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1225,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1238,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1251,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1264,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1277,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1290,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1303,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1316,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1329,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1342,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1355,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1368,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1381,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1394,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1407,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1420,12 +952,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Daniel Wells",
-      "awayTeam": "R Evans",
+      "awayTeam": "Oliver Sykes",
       "time": "17:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1433,12 +965,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Ricky Walden",
-      "awayTeam": "Baranowski",
+      "awayTeam": "Mateusz Baranowski",
       "time": "17:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1446,12 +978,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Robbie Williams",
-      "awayTeam": "Tirapongpaiboon",
+      "awayTeam": "T Tirapongpaiboon",
       "time": "17:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1459,12 +991,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Long Zehuang",
-      "awayTeam": "L J Davies",
+      "awayTeam": "Liam Davies",
       "time": "17:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1472,12 +1004,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
-      "homeTeam": "Womersley",
-      "awayTeam": "Alfie Davies",
+      "homeTeam": "S Lam",
+      "awayTeam": "Gradinari",
       "time": "19:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1485,7 +1017,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Womersley",
+      "awayTeam": "Czapnik",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -1498,12 +1043,77 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Jaegers",
+      "awayTeam": "Flanagan",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Blackwell",
+      "awayTeam": "Skalski",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Bodor",
+      "awayTeam": "Briffett-Payne",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Ruberg",
+      "awayTeam": "E Jones",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "I Martin",
+      "awayTeam": "Deaville",
+      "time": "19:00",
+      "date": "2026-09-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "David Lilley",
-      "awayTeam": "Liu W",
+      "awayTeam": "Liu Wenwei",
       "time": "20:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1511,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1524,12 +1134,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Xu Si",
-      "awayTeam": "Marco Fu",
+      "awayTeam": "Onyee Ng",
       "time": "20:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1537,12 +1147,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Liam Pullen",
-      "awayTeam": "Zizins",
+      "awayTeam": "Artemijs Zizins",
       "time": "20:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1550,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -1563,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -1576,12 +1186,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Fan Zhengyi",
-      "awayTeam": "Grace",
+      "awayTeam": "David Grace",
       "time": "23:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1589,12 +1199,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Lyu Haotian",
-      "awayTeam": "Benzey",
+      "awayTeam": "Connor Benzey",
       "time": "23:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1602,12 +1212,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Martin O'Donnell",
-      "awayTeam": "Lan Y",
+      "awayTeam": "Lan Yuhao",
       "time": "23:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1615,12 +1225,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
       "homeTeam": "Matthew Selt",
-      "awayTeam": "L Graham",
+      "awayTeam": "Liam Graham",
       "time": "23:00",
       "date": "2026-09-23",
       "category": "其他",
@@ -1628,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1641,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1654,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1667,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1680,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1693,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1706,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1719,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1732,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1745,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1758,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1771,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1784,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1797,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1810,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1823,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1836,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1849,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1862,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1875,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1888,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1901,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1914,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1927,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1940,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1953,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1966,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1979,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1992,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2005,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2018,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2031,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2044,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2057,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2070,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2083,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2096,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2109,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2122,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2135,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2148,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2161,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2174,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2187,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2200,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2213,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2226,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2239,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2252,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2265,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2278,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Scottish Open Qual (20-23 Sep 2026)",
+      "league": "Q Tour 2 (21-24 Sep 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
