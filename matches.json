@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-24T03:39:31+08:00",
+  "updatedAt": "2026-09-25T03:58:29+08:00",
   "matches": [
     {
       "league": "",
@@ -16,85 +16,33 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "QF",
+      "matchStage": "Q Rd 3",
       "leagueRound": null,
-      "homeTeam": "Sanderson Lam",
-      "awayTeam": "Dean Young",
-      "time": "15:00",
-      "date": "2026-09-24",
+      "homeTeam": "Chen Qi'en",
+      "awayTeam": "Andrew Higginson",
+      "time": "09:30",
+      "date": "2026-09-28",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "QF",
+      "matchStage": "Q Rd 3",
       "leagueRound": null,
-      "homeTeam": "Tomasz Skalski",
-      "awayTeam": "Edward Jones",
-      "time": "15:00",
-      "date": "2026-09-24",
+      "homeTeam": "Wang Xinzhong",
+      "awayTeam": "Jamie Clarke",
+      "time": "09:30",
+      "date": "2026-09-28",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Mark Lloyd",
-      "awayTeam": "Sybren Sokolowski",
-      "time": "15:00",
-      "date": "2026-09-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Aaron Busuttil",
-      "awayTeam": "Dimitrov",
-      "time": "15:00",
-      "date": "2026-09-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "S Lam",
-      "awayTeam": "Skalski",
-      "time": "18:00",
-      "date": "2026-09-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "M Lloyd",
-      "awayTeam": "Busuttil",
-      "time": "18:00",
-      "date": "2026-09-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -107,7 +55,33 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Su Jinxiong",
+      "awayTeam": "Sam Craigie",
+      "time": "14:00",
+      "date": "2026-09-28",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Dong Zihao",
+      "awayTeam": "Marco Fu",
+      "time": "14:00",
+      "date": "2026-09-28",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -120,7 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -133,7 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -146,7 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -159,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -172,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -185,12 +159,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Kyren Wilson",
-      "awayTeam": "Sam Craigie",
+      "awayTeam": "Su Jinxiong",
       "time": "09:30",
       "date": "2026-09-29",
       "category": "其他",
@@ -198,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -211,12 +185,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Shaun Murphy",
-      "awayTeam": "Marco Fu",
+      "awayTeam": "Dong Zihao",
       "time": "09:30",
       "date": "2026-09-29",
       "category": "其他",
@@ -224,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -237,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -250,12 +224,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Mark Selby",
-      "awayTeam": "Higginson",
+      "awayTeam": "Chen Qi'en",
       "time": "14:00",
       "date": "2026-09-29",
       "category": "其他",
@@ -263,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,12 +250,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
       "homeTeam": "Wu Yize",
-      "awayTeam": "J Clarke",
+      "awayTeam": "Wang Xinzhong",
       "time": "14:00",
       "date": "2026-09-29",
       "category": "其他",
@@ -289,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -302,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -341,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -380,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Q Tour 2 (21-24 Sep 2026)",
+      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
