@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-03T04:36:18+08:00",
+  "updatedAt": "2026-10-04T03:13:40+08:00",
   "matches": [
     {
       "league": "",
@@ -291,36 +291,10 @@
     {
       "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Yuan Sijun",
-      "awayTeam": "Jimmy Robertson",
-      "time": "14:00",
-      "date": "2026-10-03",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Judd Trump",
-      "awayTeam": "Wu Yize",
-      "time": "19:30",
-      "date": "2026-10-03",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Shenzhen Open (28 Sep - 4 Oct 2026)",
-      "leagueType": "斯诺克",
       "matchStage": "Final",
       "leagueRound": null,
       "homeTeam": "Yuan Sijun",
-      "awayTeam": "Trump",
+      "awayTeam": "Wu Yize",
       "time": "14:00",
       "date": "2026-10-04",
       "category": "其他",
