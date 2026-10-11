@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-11T03:58:43+08:00",
+  "updatedAt": "2026-10-12T04:09:08+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "多伦多猛龙",
-      "awayTeam": "洛杉矶快船",
+      "homeTeam": "克利夫兰骑士",
+      "awayTeam": "奥兰多魔术",
       "time": "06:30",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -20,10 +20,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "印第安纳步行者",
-      "awayTeam": "亚特兰大老鹰",
+      "homeTeam": "夏洛特黄蜂",
+      "awayTeam": "密尔沃基雄鹿",
       "time": "07:00",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -33,62 +33,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "华盛顿奇才",
-      "awayTeam": "底特律活塞",
-      "time": "07:00",
-      "date": "2026-10-11",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "迈阿密热火",
-      "awayTeam": "明尼苏达森林狼",
-      "time": "08:00",
-      "date": "2026-10-11",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "波士顿凯尔特人",
-      "awayTeam": "费城76人",
-      "time": "08:00",
-      "date": "2026-10-11",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "金州勇士",
-      "awayTeam": "萨克拉门托国王",
-      "time": "08:30",
-      "date": "2026-10-11",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "菲尼克斯太阳",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "10:30",
-      "date": "2026-10-11",
+      "homeTeam": "丹佛掘金",
+      "awayTeam": "芝加哥公牛",
+      "time": "09:00",
+      "date": "2026-10-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -98,25 +46,12 @@
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "国际米兰",
-      "awayTeam": "帕尔马",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "AC米兰",
       "time": "00:00",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "足球",
       "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "英超",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "曼联",
-      "awayTeam": "托特纳姆热刺",
-      "time": "00:30",
-      "date": "2026-10-11",
-      "category": "足球",
-      "isImportant": true,
       "status": "finished"
     },
     {
@@ -124,23 +59,10 @@
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "巴塞罗那",
-      "awayTeam": "赫塔费",
+      "homeTeam": "皇家贝蒂斯",
+      "awayTeam": "奥萨苏纳",
       "time": "00:30",
-      "date": "2026-10-11",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "德甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "莱比锡红牛",
-      "awayTeam": "法兰克福",
-      "time": "00:30",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "足球",
       "isImportant": false,
       "status": "finished"
@@ -150,10 +72,10 @@
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "那不勒斯",
-      "awayTeam": "Frosinone",
+      "homeTeam": "卡利亚里",
+      "awayTeam": "尤文图斯",
       "time": "02:45",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "足球",
       "isImportant": false,
       "status": "live"
@@ -163,26 +85,13 @@
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "皇家马德里",
-      "awayTeam": "比利亚雷亚尔",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "瓦伦西亚",
       "time": "03:00",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "category": "足球",
       "isImportant": false,
       "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "中超",
-      "matchStage": "常规赛",
-      "leagueRound": 27,
-      "homeTeam": "青岛西海岸",
-      "awayTeam": "大连英博",
-      "time": "18:00",
-      "date": "2026-10-11",
-      "category": "足球",
-      "isImportant": false,
-      "status": "upcoming"
     },
     {
       "league": "",
@@ -302,46 +211,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Vinnie Calabrese",
-      "awayTeam": "James Mifsud",
-      "time": "08:00",
-      "date": "2026-10-11",
-      "category": "其他",
+      "league": "",
+      "leagueType": "中超",
+      "matchStage": "常规赛",
+      "leagueRound": 28,
+      "homeTeam": "河南队",
+      "awayTeam": "天津津门虎",
+      "time": "19:35",
+      "date": "2026-10-16",
+      "category": "足球",
       "isImportant": false,
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Daniell Haenga",
-      "awayTeam": "Cale Barrett",
-      "time": "08:00",
-      "date": "2026-10-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Calabrese",
-      "awayTeam": "Haenga",
-      "time": "13:00",
-      "date": "2026-10-11",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -380,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -770,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -783,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -796,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -809,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -822,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -835,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -848,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -861,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -874,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -887,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -900,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -913,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -926,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -939,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -952,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -965,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -978,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -991,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1004,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1017,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1030,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1043,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1056,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1069,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1082,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1095,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1121,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1134,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1147,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1160,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1173,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1186,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1199,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1212,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1225,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1238,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1264,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1277,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1290,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1303,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1316,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1329,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1342,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1355,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1368,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1394,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1407,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1485,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1498,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1524,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1537,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1550,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1563,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1576,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Asia Pacific Q Tour 4 (8-11 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
