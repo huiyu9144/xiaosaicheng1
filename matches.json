@@ -1,29 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-13T06:51:40+08:00",
+  "updatedAt": "2026-10-14T05:13:12+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "波特兰开拓者",
-      "awayTeam": "London Lions",
-      "time": "04:00",
-      "date": "2026-10-13",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "亚特兰大老鹰",
-      "awayTeam": "俄克拉荷马雷霆",
+      "homeTeam": "奥兰多魔术",
+      "awayTeam": "克利夫兰骑士",
       "time": "07:00",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -33,10 +20,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "华盛顿奇才",
-      "awayTeam": "布鲁克林篮网",
+      "homeTeam": "多伦多猛龙",
+      "awayTeam": "纽约尼克斯",
       "time": "07:00",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -46,10 +33,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "纽约尼克斯",
-      "awayTeam": "明尼苏达森林狼",
-      "time": "07:30",
-      "date": "2026-10-13",
+      "homeTeam": "俄克拉荷马雷霆",
+      "awayTeam": "印第安纳步行者",
+      "time": "08:00",
+      "date": "2026-10-14",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -59,65 +46,26 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "犹他爵士",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "09:00",
-      "date": "2026-10-13",
+      "homeTeam": "洛杉矶湖人",
+      "awayTeam": "金州勇士",
+      "time": "10:00",
+      "date": "2026-10-14",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
       "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "亚特兰大",
-      "awayTeam": "威尼斯",
-      "time": "00:30",
-      "date": "2026-10-13",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "都灵",
-      "awayTeam": "乌迪内斯",
-      "time": "02:45",
-      "date": "2026-10-13",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "英超",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "Coventry City",
-      "awayTeam": "纽卡斯尔联",
-      "time": "03:00",
-      "date": "2026-10-13",
-      "category": "足球",
+      "homeTeam": "萨克拉门托国王",
+      "awayTeam": "波特兰开拓者",
+      "time": "10:00",
+      "date": "2026-10-14",
+      "category": "篮球",
       "isImportant": true,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "西甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "Levante",
-      "awayTeam": "塞维利亚",
-      "time": "03:00",
-      "date": "2026-10-13",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
+      "status": "upcoming"
     },
     {
       "league": "",
@@ -130,7 +78,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -143,7 +91,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -156,7 +104,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -169,7 +117,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -182,7 +130,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -195,7 +143,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -208,7 +156,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -221,7 +169,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -234,7 +182,7 @@
       "date": "2026-10-14",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -250,7 +198,774 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "",
+      "leagueType": "德甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "法兰克福",
+      "awayTeam": "FC Cologne",
+      "time": "02:30",
+      "date": "2026-10-17",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "Frosinone",
+      "awayTeam": "Sassuolo",
+      "time": "02:45",
+      "date": "2026-10-17",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "西甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "Deportivo",
+      "awayTeam": "Levante",
+      "time": "03:00",
+      "date": "2026-10-17",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Mink Nutcharut",
+      "awayTeam": "Carlie Tait",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Xuejun Alice Wu",
+      "awayTeam": "Christine Firth",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Joey Tohme",
+      "awayTeam": "Cathy Small",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Jazmin Brown",
+      "awayTeam": "Coco Shao",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Theresa Whitten",
+      "awayTeam": "Rhonda Knight",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Jia Shuangyu",
+      "awayTeam": "Kathy Blunden",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Anupama Ramachandran",
+      "awayTeam": "Heidi Royle",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Agnes Kimura",
+      "awayTeam": "Linda Larrea",
+      "time": "07:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Mink Nutcharut",
+      "awayTeam": "Christine Firth",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Carlie Tait",
+      "awayTeam": "Joey Leung",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Jazmin Brown",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Joey Tohme",
+      "awayTeam": "Coco Shao",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Lau Yuk Fan",
+      "awayTeam": "Di Merritt",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Monica Brettle",
+      "awayTeam": "Kenny Chandra",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "So Man Yan",
+      "awayTeam": "Cheung Yee Ting",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "Dianne Spring",
+      "awayTeam": "Krystal Aw",
+      "time": "09:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Carlie Tait",
+      "awayTeam": "Christine Firth",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Joey Leung",
+      "awayTeam": "Xuejun Alice Wu",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Onyee Ng",
+      "awayTeam": "Jia Shuangyu",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Kathy Blunden",
+      "awayTeam": "Rhonda Knight",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Jessica Woods",
+      "awayTeam": "Agnes Kimura",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Heidi Royle",
+      "awayTeam": "Linda Larrea",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Narucha Phoemphul",
+      "awayTeam": "Di Merritt",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Lau Yuk Fan",
+      "awayTeam": "Monica Brettle",
+      "time": "11:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Cathy Small",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Joey Tohme",
+      "awayTeam": "Jazmin Brown",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Onyee Ng",
+      "awayTeam": "Theresa Whitten",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Jia Shuangyu",
+      "awayTeam": "Rhonda Knight",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Anupama Ramachandran",
+      "awayTeam": "Jessica Woods",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Agnes Kimura",
+      "awayTeam": "Heidi Royle",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "So Man Yan",
+      "awayTeam": "Dianne Spring",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "Cheung Yee Ting",
+      "awayTeam": "Krystal Aw",
+      "time": "13:00",
+      "date": "2026-10-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Mink Nutcharut",
+      "awayTeam": "Xuejun Alice Wu",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Joey Leung",
+      "awayTeam": "Christine Firth",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Joey Tohme",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Cathy Small",
+      "awayTeam": "Coco Shao",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Onyee Ng",
+      "awayTeam": "Rhonda Knight",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Theresa Whitten",
+      "awayTeam": "Kathy Blunden",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Narucha Phoemphul",
+      "awayTeam": "Kenny Chandra",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Di Merritt",
+      "awayTeam": "Monica Brettle",
+      "time": "07:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Mink Nutcharut",
+      "awayTeam": "Joey Leung",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp A",
+      "leagueRound": null,
+      "homeTeam": "Carlie Tait",
+      "awayTeam": "Xuejun Alice Wu",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Anupama Ramachandran",
+      "awayTeam": "Linda Larrea",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Jessica Woods",
+      "awayTeam": "Heidi Royle",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Narucha Phoemphul",
+      "awayTeam": "Monica Brettle",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Lau Yuk Fan",
+      "awayTeam": "Kenny Chandra",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "So Man Yan",
+      "awayTeam": "Krystal Aw",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp F",
+      "leagueRound": null,
+      "homeTeam": "Cheung Yee Ting",
+      "awayTeam": "Dianne Spring",
+      "time": "09:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Coco Shao",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp B",
+      "leagueRound": null,
+      "homeTeam": "Cathy Small",
+      "awayTeam": "Jazmin Brown",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Onyee Ng",
+      "awayTeam": "Kathy Blunden",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp C",
+      "leagueRound": null,
+      "homeTeam": "Theresa Whitten",
+      "awayTeam": "Jia Shuangyu",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Anupama Ramachandran",
+      "awayTeam": "Agnes Kimura",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp D",
+      "leagueRound": null,
+      "homeTeam": "Jessica Woods",
+      "awayTeam": "Linda Larrea",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Narucha Phoemphul",
+      "awayTeam": "Lau Yuk Fan",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Grp E",
+      "leagueRound": null,
+      "homeTeam": "Di Merritt",
+      "awayTeam": "Kenny Chandra",
+      "time": "11:00",
+      "date": "2026-10-18",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -263,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -289,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -302,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -341,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -380,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +1381,1580 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Fabian Weber",
+      "awayTeam": "Mustafa Khan",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Sven-Goran Maier",
+      "awayTeam": "Aidan Murphy",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Yago Montes Lorenzo",
+      "awayTeam": "Harvey Chandler",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Daan Leyssen",
+      "awayTeam": "Daniyal Zendeh",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mark Batey",
+      "awayTeam": "Robin Otto",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Kristof De Mulder",
+      "awayTeam": "Caiden Casha",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Paul Arthur Jeroch",
+      "awayTeam": "Lovis Seinwill",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Fabian Haken",
+      "awayTeam": "Jamie O'Neill",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ide Wilfried",
+      "awayTeam": "Nicolas Le Clercq",
+      "time": "15:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mark Bell",
+      "awayTeam": "Miro Popovic",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Lomnaw Issarangkun",
+      "awayTeam": "Artem Surzhykov",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Matthew Glasby",
+      "awayTeam": "Iman Choobdaran",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Dominik Sobaniec",
+      "awayTeam": "Evan Munro",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "David Nistor",
+      "awayTeam": "Uli Hertrampf",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jason Wright",
+      "awayTeam": "Dominik Konczak",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Simon Dent",
+      "awayTeam": "Ammar Al-Ani",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Torben Koehler",
+      "awayTeam": "Thomas Moser",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jamie Curtis-Barrett",
+      "awayTeam": "Erik Nagy",
+      "time": "17:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Richard Wienold",
+      "awayTeam": "Felix Frede",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Hussain Shah",
+      "awayTeam": "Luca Kaufmann",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Patrice Petrovski",
+      "awayTeam": "Halim Hussain",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mirko Montrasio",
+      "awayTeam": "Pierre-Olivier Legrand",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Yorben Vervondel",
+      "awayTeam": "Davut Dikme",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Christian Richter",
+      "awayTeam": "Lukas Kleckers",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Sayed Hussaini",
+      "awayTeam": "O'Shay Scott",
+      "time": "19:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sean Maddocks",
+      "awayTeam": "Dylan Smith",
+      "time": "20:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sean McAllister",
+      "awayTeam": "William Bjerregaard Jakobsen",
+      "time": "20:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sanderson Lam",
+      "awayTeam": "Weber",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Michael Nagele",
+      "awayTeam": "Barry Pinches",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Simon Blackwell",
+      "awayTeam": "Maier",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jan Kauber",
+      "awayTeam": "Jeff Cundy",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Allan Taylor",
+      "awayTeam": "Alex Millington",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Lorenzo",
+      "awayTeam": "Tomasz Skalski",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Mark Lloyd",
+      "awayTeam": "Leyssen",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Hayden Staniland",
+      "awayTeam": "Robert Read",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Witold Bystrzycki",
+      "awayTeam": "Jenson Schmid",
+      "time": "22:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Batey",
+      "awayTeam": "Billy Castle",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Robbie McGuigan",
+      "awayTeam": "De Mulder",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sebastian Lux",
+      "awayTeam": "Kuldesh Johal",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Phuntsok Jaegers",
+      "awayTeam": "Jan Maa&szlig;",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jeroch",
+      "awayTeam": "Brian Ochoiski",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Dean Young",
+      "awayTeam": "Haken",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Bartosz Szukiewicz",
+      "awayTeam": "Amir Nardeia",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Vladislav Gradinari",
+      "awayTeam": "Sascha Breuer",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Olivier Mortiez",
+      "awayTeam": "Peter Devlin",
+      "time": "00:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Krzysztof Czapnik",
+      "awayTeam": "Wilfried",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Nicolas Mortreux",
+      "awayTeam": "Kayden Brierley",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ryan Thomerson",
+      "awayTeam": "Marco B&ouml;kamp",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "M Bell",
+      "awayTeam": "Sebastian Milewski",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ryan Davies",
+      "awayTeam": "Issarangkun",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Mark Davis",
+      "awayTeam": "Zachary Richardson",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Brian Cini",
+      "awayTeam": "Lennart Tomei",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Glasby",
+      "awayTeam": "Hamim Hussain",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Yaron Bodor",
+      "awayTeam": "Oliver Read",
+      "time": "02:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Julian Matthias",
+      "awayTeam": "Ethan Llewellyn",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Nathan Jones",
+      "awayTeam": "Hugo van Houten",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sobaniec",
+      "awayTeam": "Mark Joyce",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Edward Jones",
+      "awayTeam": "Nistor",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Daniel Kandi",
+      "awayTeam": "Jake Crofts",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Umut Dikme",
+      "awayTeam": "Rory McLeod",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Mohamad Saied",
+      "awayTeam": "Velian Dimitrov",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Daniel Womersley",
+      "awayTeam": "J Wright",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Joachim Van Kerschaver",
+      "awayTeam": "Alfie Davies",
+      "time": "16:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Bulcsu Revesz",
+      "awayTeam": "Joseph Casha",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Dent",
+      "awayTeam": "Riley Powell",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Haris Tahir",
+      "awayTeam": "Koehler",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Garry Coulson",
+      "awayTeam": "Oliver Briffett-Payne",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ryan Causton",
+      "awayTeam": "Mohammad Al Asfar",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Curtis-Barrett",
+      "awayTeam": "James Silverwood",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Luke Pinches",
+      "awayTeam": "Daniel Schneider",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Bernd Br&uuml;ggemann",
+      "awayTeam": "Joel Connolly",
+      "time": "18:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Simon Lichtenberg",
+      "awayTeam": "Daniel Williams",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Wienold",
+      "awayTeam": "Sybren Sokolowski",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Paul Deaville",
+      "awayTeam": "H Shah",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jake Read",
+      "awayTeam": "Alexander Widau",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Robert Milkins",
+      "awayTeam": "Nick Demuynck",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sajjad Hassandokht",
+      "awayTeam": "Peter Lines",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "George Pragnell",
+      "awayTeam": "Petrovski",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Rolf Mahr",
+      "awayTeam": "Callum Beresford",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Luke Flanagan",
+      "awayTeam": "Filips Kalnins",
+      "time": "20:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Montrasio",
+      "awayTeam": "Patrick Whelan",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Shachar Ruberg",
+      "awayTeam": "Vervondel",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Faraz Ali",
+      "awayTeam": "Jack Borwick",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Andy Lee",
+      "awayTeam": "Umar Hayat Ali",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Richter",
+      "awayTeam": "Stuart Watson",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Matvei Lagodzinschii",
+      "awayTeam": "Nigel Clarke",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Daniel Boyes",
+      "awayTeam": "Haydon Pinhey",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jay Bullen",
+      "awayTeam": "Olivier Pechenart",
+      "time": "22:00",
+      "date": "2026-10-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Hussaini",
+      "awayTeam": "Aaron Busuttil",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "S Lam",
+      "awayTeam": "Maddocks",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "McAllister",
+      "awayTeam": "Nagele",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Blackwell",
+      "awayTeam": "Kauber",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "A Taylor",
+      "awayTeam": "Skalski",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "M Lloyd",
+      "awayTeam": "Staniland",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Bystrzycki",
+      "awayTeam": "B J Castle",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "McGuigan",
+      "awayTeam": "Lux",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Jaegers",
+      "awayTeam": "B Ochoiski",
+      "time": "00:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Dean Young",
+      "awayTeam": "Szukiewicz",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Gradinari",
+      "awayTeam": "Mortiez",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Czapnik",
+      "awayTeam": "Mortreux",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "R Thomerson",
+      "awayTeam": "Milewski",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "R Davies",
+      "awayTeam": "Mark Davis",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Cini",
+      "awayTeam": "Hamim Hussain",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Bodor",
+      "awayTeam": "Matthias",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Nathan Jones",
+      "awayTeam": "M Joyce",
+      "time": "02:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "E Jones",
+      "awayTeam": "Kandi",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "U Dikme",
+      "awayTeam": "Saied",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Womersley",
+      "awayTeam": "Kerschaver",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Revesz",
+      "awayTeam": "Powell",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Tahir",
+      "awayTeam": "Coulson",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Causton",
+      "awayTeam": "Silverwood",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "L Pinches",
+      "awayTeam": "Br&uuml;ggemann",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Lichtenberg",
+      "awayTeam": "Sokolowski",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Deaville",
+      "awayTeam": "Read",
+      "time": "16:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Milkins",
+      "awayTeam": "Hassandokht",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Pragnell",
+      "awayTeam": "Mahr",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Flanagan",
+      "awayTeam": "P Whelan",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Ruberg",
+      "awayTeam": "Ali",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Andy Lee",
+      "awayTeam": "Watson",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "Lagodzinschii",
+      "awayTeam": "Boyes",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 3",
+      "leagueRound": null,
+      "homeTeam": "J Bullen",
+      "awayTeam": "Busuttil",
+      "time": "18:00",
+      "date": "2026-10-24",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -679,7 +2967,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -692,7 +2980,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -705,7 +2993,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -718,7 +3006,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -731,7 +3019,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -744,7 +3032,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -757,7 +3045,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -770,7 +3058,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -783,7 +3071,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -796,7 +3084,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -809,7 +3097,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -822,7 +3110,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -835,7 +3123,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -848,7 +3136,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -861,7 +3149,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -874,7 +3162,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -887,7 +3175,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -900,7 +3188,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -913,7 +3201,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -926,7 +3214,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -939,7 +3227,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -952,7 +3240,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -965,7 +3253,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -978,7 +3266,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -991,7 +3279,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1004,7 +3292,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1017,7 +3305,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1030,7 +3318,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1043,7 +3331,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1056,7 +3344,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1069,7 +3357,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1082,7 +3370,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1095,7 +3383,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +3396,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1121,7 +3409,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +3422,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1147,7 +3435,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1160,7 +3448,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1173,7 +3461,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1186,7 +3474,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1199,7 +3487,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1212,7 +3500,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1225,7 +3513,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1238,7 +3526,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,7 +3539,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1264,7 +3552,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1277,7 +3565,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1290,7 +3578,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1303,7 +3591,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1316,7 +3604,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1329,7 +3617,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1342,7 +3630,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1355,7 +3643,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1368,7 +3656,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,7 +3669,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1394,7 +3682,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1407,7 +3695,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +3708,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +3721,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +3734,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +3747,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +3760,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1485,7 +3773,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1498,7 +3786,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +3799,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1524,7 +3812,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Australian Women's - A (17-20 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
