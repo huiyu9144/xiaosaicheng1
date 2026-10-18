@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-18T02:21:42+08:00",
+  "updatedAt": "2026-10-19T02:34:17+08:00",
   "matches": [
     {
       "league": "",
@@ -46,62 +46,36 @@
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "博洛尼亚",
-      "awayTeam": "国际米兰",
+      "homeTeam": "AC米兰",
+      "awayTeam": "亚特兰大",
       "time": "00:00",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "足球",
       "isImportant": false,
       "status": "finished"
     },
     {
       "league": "",
-      "leagueType": "英超",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "纽卡斯尔联",
-      "awayTeam": "阿斯顿维拉",
-      "time": "00:30",
-      "date": "2026-10-18",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "皇家贝蒂斯",
-      "awayTeam": "巴塞罗那",
+      "homeTeam": "Málaga",
+      "awayTeam": "皇家社会",
       "time": "00:30",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "足球",
       "isImportant": false,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "德甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "拜仁慕尼黑",
-      "awayTeam": "莱比锡红牛",
-      "time": "00:30",
-      "date": "2026-10-18",
-      "category": "足球",
-      "isImportant": false,
-      "status": "live"
+      "status": "finished"
     },
     {
       "league": "",
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "罗马",
-      "awayTeam": "热那亚",
+      "homeTeam": "尤文图斯",
+      "awayTeam": "拉齐奥",
       "time": "02:45",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "足球",
       "isImportant": false,
       "status": "upcoming"
@@ -111,25 +85,12 @@
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "瓦伦西亚",
-      "awayTeam": "毕尔巴鄂竞技",
+      "homeTeam": "皇家马德里",
+      "awayTeam": "塞维利亚",
       "time": "03:00",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "足球",
       "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "中超",
-      "matchStage": "常规赛",
-      "leagueRound": 28,
-      "homeTeam": "武汉三镇",
-      "awayTeam": "上海申花",
-      "time": "18:00",
-      "date": "2026-10-18",
-      "category": "足球",
-      "isImportant": true,
       "status": "upcoming"
     },
     {
@@ -250,436 +211,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Xuejun Alice Wu",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
+      "league": "",
+      "leagueType": "中超",
+      "matchStage": "常规赛",
+      "leagueRound": 29,
+      "homeTeam": "成都蓉城",
+      "awayTeam": "大连英博",
+      "time": "15:30",
+      "date": "2026-10-24",
+      "category": "足球",
+      "isImportant": true,
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Joey Leung",
-      "awayTeam": "Christine Firth",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Joey Tohme",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Cathy Small",
-      "awayTeam": "Coco Shao",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Narucha Phoemphul",
-      "awayTeam": "Kenny Chandra",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Di Merritt",
-      "awayTeam": "Monica Brettle",
-      "time": "07:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Joey Leung",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Carlie Tait",
-      "awayTeam": "Xuejun Alice Wu",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Anupama Ramachandran",
-      "awayTeam": "Linda Larrea",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Jessica Woods",
-      "awayTeam": "Heidi Royle",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Narucha Phoemphul",
-      "awayTeam": "Monica Brettle",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Lau Yuk Fan",
-      "awayTeam": "Kenny Chandra",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "So Man Yan",
-      "awayTeam": "Krystal Aw",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Cheung Yee Ting",
-      "awayTeam": "Dianne Spring",
-      "time": "09:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Coco Shao",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Cathy Small",
-      "awayTeam": "Jazmin Brown",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Kathy Blunden",
-      "awayTeam": "Onyee Ng",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Theresa Whitten",
-      "awayTeam": "Jia Shuangyu",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Anupama Ramachandran",
-      "awayTeam": "Agnes Kimura",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Jessica Woods",
-      "awayTeam": "Linda Larrea",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Narucha Phoemphul",
-      "awayTeam": "Lau Yuk Fan",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Di Merritt",
-      "awayTeam": "Kenny Chandra",
-      "time": "11:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Si Jiahui",
-      "awayTeam": "Wang Xinbo",
-      "time": "17:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Xiao Guodong",
-      "awayTeam": "Sam Craigie",
-      "time": "17:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Jack Lisowski",
-      "awayTeam": "Huang Jiahao",
-      "time": "20:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Stephen Maguire",
-      "awayTeam": "Anthony McGill",
-      "time": "20:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Thepchaiya Un-Nooh",
-      "awayTeam": "Aaron Hill",
-      "time": "20:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Gary Wilson",
-      "awayTeam": "Mateusz Baranowski",
-      "time": "22:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mark Selby",
-      "awayTeam": "Louis Heathcote",
-      "time": "22:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Hossein Vafaei",
-      "awayTeam": "Matthew Selt",
-      "time": "22:00",
-      "date": "2026-10-18",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Ali Carter",
-      "awayTeam": "Xu Si",
-      "time": "02:00",
-      "date": "2026-10-19",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Joe O'Connor",
-      "awayTeam": "Matthew Stevens",
-      "time": "02:00",
-      "date": "2026-10-19",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Neil Robertson",
-      "awayTeam": "Ricky Walden",
-      "time": "02:00",
-      "date": "2026-10-19",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +237,111 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mink Nutcharut",
+      "awayTeam": "Jazmin Brown",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Theresa Whitten",
+      "awayTeam": "Narucha Phoemphul",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Cheung Yee Ting",
+      "awayTeam": "Joey Tohme",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Lau Yuk Fan",
+      "awayTeam": "Anupama Ramachandran",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Xuejun Alice Wu",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "So Man Yan",
+      "awayTeam": "Kenny Chandra",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jessica Woods",
+      "awayTeam": "Carlie Tait",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Agnes Kimura",
+      "awayTeam": "Onyee Ng",
+      "time": "07:00",
+      "date": "2026-10-19",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1095,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1108,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1121,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1134,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1147,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1160,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1173,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1186,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1199,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1212,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1225,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1238,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1251,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1264,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1277,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1290,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1303,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1316,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1329,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1342,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1355,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1368,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1381,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1394,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1407,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1420,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1433,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1446,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1459,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1472,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1485,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1498,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1511,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1524,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1537,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1550,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1563,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1576,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1589,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1602,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1615,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1628,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1641,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1654,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1667,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1680,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1693,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1706,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1719,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1732,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1745,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1758,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1771,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1784,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1797,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1810,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1823,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1836,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1849,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1862,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1875,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1888,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1901,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1914,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1927,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1940,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1953,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1966,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1979,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1992,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2005,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2018,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2031,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2044,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2057,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2070,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2083,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2096,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2109,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2122,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2135,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2148,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2161,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2174,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2187,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2200,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2213,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2226,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2239,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2252,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2265,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2278,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2291,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2304,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2317,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2330,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2343,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2356,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2369,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2382,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2395,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2408,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2421,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2434,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2447,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2460,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2473,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 3",
       "leagueRound": null,
@@ -2486,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2499,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2512,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2525,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2538,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2551,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2564,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2577,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2590,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2603,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2616,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2629,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2642,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2655,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2668,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2681,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2694,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2707,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2720,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2733,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2746,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2759,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2772,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2785,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2798,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2811,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2824,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2837,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2850,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2863,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2876,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2889,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2902,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2915,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2928,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2941,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2954,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2967,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2980,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2993,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3006,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3019,7 +2668,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3032,7 +2681,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3045,7 +2694,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3058,7 +2707,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3071,7 +2720,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3084,7 +2733,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3097,7 +2746,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3110,7 +2759,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3123,7 +2772,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3136,7 +2785,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3149,7 +2798,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3162,7 +2811,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3175,7 +2824,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3188,7 +2837,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3201,7 +2850,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3214,7 +2863,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3227,7 +2876,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3240,7 +2889,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3253,7 +2902,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3266,7 +2915,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3279,7 +2928,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3292,7 +2941,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3305,7 +2954,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3318,7 +2967,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3331,7 +2980,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3344,7 +2993,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Australian Women's Open (17-20 Oct 2026)",
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
