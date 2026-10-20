@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T04:58:42+08:00",
+  "updatedAt": "2026-10-21T03:58:08+08:00",
   "matches": [
     {
       "league": "",
@@ -13,7 +13,7 @@
       "date": "2026-10-21",
       "category": "篮球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -43,58 +43,6 @@
     },
     {
       "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "蒙扎",
-      "awayTeam": "卡利亚里",
-      "time": "00:30",
-      "date": "2026-10-20",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "帕尔马",
-      "awayTeam": "都灵",
-      "time": "02:45",
-      "date": "2026-10-20",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "英超",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "托特纳姆热刺",
-      "awayTeam": "Coventry City",
-      "time": "03:00",
-      "date": "2026-10-20",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "西甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "赫塔费",
-      "awayTeam": "巴列卡诺",
-      "time": "03:00",
-      "date": "2026-10-20",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
       "leagueType": "欧冠",
       "matchStage": "常规赛",
       "leagueRound": null,
@@ -104,7 +52,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -117,7 +65,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "finished"
     },
     {
       "league": "",
@@ -130,7 +78,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -143,7 +91,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -156,7 +104,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -169,7 +117,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -182,7 +130,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -195,7 +143,7 @@
       "date": "2026-10-21",
       "category": "足球",
       "isImportant": true,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -206,6 +154,58 @@
       "awayTeam": "马德里竞技",
       "time": "03:00",
       "date": "2026-10-21",
+      "category": "足球",
+      "isImportant": true,
+      "status": "live"
+    },
+    {
+      "league": "",
+      "leagueType": "西甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "Levante",
+      "awayTeam": "毕尔巴鄂竞技",
+      "time": "02:00",
+      "date": "2026-10-22",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "德甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "斯图加特",
+      "awayTeam": "门兴格拉德巴赫",
+      "time": "02:30",
+      "date": "2026-10-24",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "都灵",
+      "awayTeam": "蒙扎",
+      "time": "02:45",
+      "date": "2026-10-24",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "英超",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "伊普斯维奇",
+      "awayTeam": "诺丁汉森林",
+      "time": "03:00",
+      "date": "2026-10-24",
       "category": "足球",
       "isImportant": true,
       "status": "upcoming"
@@ -226,194 +226,155 @@
     {
       "league": "Northern Ireland Open (18-25 Oct 2026)",
       "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "John Higgins",
-      "awayTeam": "Liam Highfield",
-      "time": "04:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Anupama Ramachandran",
-      "time": "07:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Onyee Ng",
-      "time": "07:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Final",
-      "leagueRound": null,
-      "homeTeam": "Mink",
-      "awayTeam": "R Evans",
-      "time": "11:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mark J Williams",
-      "awayTeam": "Robbie Williams",
-      "time": "17:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Chang Bingyu",
-      "awayTeam": "Ryan Day",
-      "time": "17:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhou Yuelong",
-      "awayTeam": "Michael Holt",
-      "time": "20:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Mark Allen",
-      "awayTeam": "Jordan Brown",
-      "time": "20:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Zhao Xintong",
-      "awayTeam": "Gao Yang",
-      "time": "22:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Noppon Saengkham",
-      "awayTeam": "T Tirapongpaiboon",
-      "time": "22:00",
-      "date": "2026-10-20",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Wang Xinbo",
-      "awayTeam": "Mateusz Baranowski",
-      "time": "02:00",
-      "date": "2026-10-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Thepchaiya Un-Nooh",
-      "awayTeam": "Kyren Wilson",
-      "time": "02:00",
-      "date": "2026-10-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Louis Heathcote",
-      "awayTeam": "Matthew Selt",
-      "time": "02:00",
-      "date": "2026-10-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 2",
-      "leagueRound": null,
-      "homeTeam": "Jack Lisowski",
-      "awayTeam": "Anthony McGill",
-      "time": "04:00",
-      "date": "2026-10-21",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
       "homeTeam": "Joe O'Connor",
       "awayTeam": "Ricky Walden",
       "time": "04:00",
       "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Pang Junxu",
+      "awayTeam": "Liam Davies",
+      "time": "17:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Cheung Ka Wai",
+      "awayTeam": "Stuart Bingham",
+      "time": "17:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "John Higgins",
+      "awayTeam": "Jak Jones",
+      "time": "20:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Daniel Wells",
+      "awayTeam": "Ryan Day",
+      "time": "20:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sam Craigie",
+      "awayTeam": "Xu Si",
+      "time": "21:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Zhang Anda",
+      "awayTeam": "Mark J Williams",
+      "time": "21:00",
+      "date": "2026-10-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Gao Yang",
+      "awayTeam": "David Gilbert",
+      "time": "02:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Michael Holt",
+      "awayTeam": "Jordan Brown",
+      "time": "02:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Noppon Saengkham",
+      "awayTeam": "Scott Donaldson",
+      "time": "02:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Elliot Slessor",
+      "awayTeam": "Jamie Jones",
+      "time": "03:00",
+      "date": "2026-10-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Luca Brecel",
+      "awayTeam": "Martin O'Donnell",
+      "time": "03:00",
+      "date": "2026-10-22",
       "category": "其他",
       "isImportant": false,
       "status": "upcoming"
