@@ -1,42 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-24T03:54:25+08:00",
+  "updatedAt": "2026-10-25T02:43:07+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "密尔沃基雄鹿",
-      "awayTeam": "芝加哥公牛",
-      "time": "04:00",
-      "date": "2026-10-24",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "波士顿凯尔特人",
-      "awayTeam": "纽约尼克斯",
-      "time": "07:00",
-      "date": "2026-10-24",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
       "homeTeam": "夏洛特黄蜂",
-      "awayTeam": "亚特兰大老鹰",
-      "time": "07:00",
-      "date": "2026-10-24",
+      "awayTeam": "迈阿密热火",
+      "time": "06:00",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -46,10 +20,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "印第安纳步行者",
-      "awayTeam": "达拉斯独行侠",
-      "time": "07:00",
-      "date": "2026-10-24",
+      "homeTeam": "克利夫兰骑士",
+      "awayTeam": "布鲁克林篮网",
+      "time": "07:30",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -59,10 +33,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "奥兰多魔术",
-      "awayTeam": "明尼苏达森林狼",
-      "time": "07:00",
-      "date": "2026-10-24",
+      "homeTeam": "费城76人",
+      "awayTeam": "密尔沃基雄鹿",
+      "time": "07:30",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -72,23 +46,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "华盛顿奇才",
-      "awayTeam": "多伦多猛龙",
-      "time": "07:00",
-      "date": "2026-10-24",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "迈阿密热火",
-      "awayTeam": "底特律活塞",
+      "homeTeam": "芝加哥公牛",
+      "awayTeam": "华盛顿奇才",
       "time": "08:00",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -98,10 +59,23 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "圣安东尼奥马刺",
+      "homeTeam": "达拉斯独行侠",
+      "awayTeam": "圣安东尼奥马刺",
+      "time": "08:00",
+      "date": "2026-10-25",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "亚特兰大老鹰",
       "awayTeam": "休斯顿火箭",
-      "time": "09:30",
-      "date": "2026-10-24",
+      "time": "08:30",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -111,10 +85,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "犹他爵士",
+      "homeTeam": "丹佛掘金",
       "awayTeam": "新奥尔良鹈鹕",
-      "time": "09:30",
-      "date": "2026-10-24",
+      "time": "09:00",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -124,1134 +98,107 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "金州勇士",
-      "awayTeam": "孟菲斯灰熊",
+      "homeTeam": "菲尼克斯太阳",
+      "awayTeam": "金州勇士",
       "time": "10:00",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "洛杉矶湖人",
-      "awayTeam": "洛杉矶快船",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "萨克拉门托国王",
-      "awayTeam": "波特兰开拓者",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "德甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "斯图加特",
-      "awayTeam": "门兴格拉德巴赫",
-      "time": "02:30",
-      "date": "2026-10-24",
-      "category": "足球",
-      "isImportant": false,
-      "status": "live"
     },
     {
       "league": "",
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "都灵",
-      "awayTeam": "蒙扎",
-      "time": "02:45",
-      "date": "2026-10-24",
+      "homeTeam": "那不勒斯",
+      "awayTeam": "罗马",
+      "time": "00:00",
+      "date": "2026-10-25",
       "category": "足球",
       "isImportant": false,
-      "status": "live"
+      "status": "finished"
     },
     {
       "league": "",
       "leagueType": "英超",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "伊普斯维奇",
-      "awayTeam": "诺丁汉森林",
-      "time": "03:00",
-      "date": "2026-10-24",
+      "homeTeam": "切尔西",
+      "awayTeam": "托特纳姆热刺",
+      "time": "00:30",
+      "date": "2026-10-25",
       "category": "足球",
       "isImportant": true,
-      "status": "live"
+      "status": "finished"
     },
     {
       "league": "",
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "阿拉维斯",
-      "awayTeam": "Málaga",
-      "time": "03:00",
-      "date": "2026-10-24",
+      "homeTeam": "瓦伦西亚",
+      "awayTeam": "比利亚雷亚尔",
+      "time": "00:30",
+      "date": "2026-10-25",
       "category": "足球",
       "isImportant": false,
-      "status": "live"
+      "status": "finished"
+    },
+    {
+      "league": "",
+      "leagueType": "德甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "多特蒙德",
+      "awayTeam": "法兰克福",
+      "time": "00:30",
+      "date": "2026-10-25",
+      "category": "足球",
+      "isImportant": false,
+      "status": "finished"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "拉齐奥",
+      "awayTeam": "帕尔马",
+      "time": "02:45",
+      "date": "2026-10-25",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "西甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "马德里竞技",
+      "awayTeam": "Deportivo",
+      "time": "03:00",
+      "date": "2026-10-25",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
     },
     {
       "league": "",
       "leagueType": "中超",
       "matchStage": "常规赛",
-      "leagueRound": 29,
-      "homeTeam": "成都蓉城",
-      "awayTeam": "大连英博",
+      "leagueRound": 30,
+      "homeTeam": "北京国安",
+      "awayTeam": "重庆铜梁龙",
       "time": "15:30",
-      "date": "2026-10-24",
+      "date": "2026-11-08",
       "category": "足球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Lim Jin Er",
-      "awayTeam": "Han Siew Li",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Coco Shao",
-      "awayTeam": "Tan Kim Mei",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Xuejun Alice Wu",
-      "awayTeam": "Su Xiaoming",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Vivian Yeoh",
-      "awayTeam": "Li Bihan",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Pawaonrat Romyaphuek",
-      "awayTeam": "Su Xiaoming",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Thitapon Nakkaew",
-      "awayTeam": "Bronica Song",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Cheng Siew Yun",
-      "awayTeam": "Lau Sum Yi",
-      "time": "10:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Natcharin Sornprasert",
-      "awayTeam": "Su Xiaoming",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Chu Pui Ying",
-      "awayTeam": "Thanh Tam Nguyen",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Cheung Yee Ting",
-      "awayTeam": "Shruthi L",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Lau Yuk Fan",
-      "awayTeam": "Ng Yun Ning",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp I",
-      "leagueRound": null,
-      "homeTeam": "Charlene Chai",
-      "awayTeam": "Sharon Chua",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp I",
-      "leagueRound": null,
-      "homeTeam": "Sharon Tan",
-      "awayTeam": "Cheah Yuen Yuen",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp J",
-      "leagueRound": null,
-      "homeTeam": "Ho Yee Ki",
-      "awayTeam": "Adiyadolgor Chimedvaam",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp J",
-      "leagueRound": null,
-      "homeTeam": "Toh Hong Lay",
-      "awayTeam": "Lee Sook Kwan",
-      "time": "11:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Liu Ziling",
-      "awayTeam": "Jia Shuangyu",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Shiu Wing Man",
-      "awayTeam": "Liu Weiyilu",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Natcharin Sornprasert",
-      "awayTeam": "Candyce Leow",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Phakwalan Kongkaew",
-      "awayTeam": "Wong Wei Nie",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Panchaya Channoi",
-      "awayTeam": "Pawaonrat Romyaphuek",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Baipat Siripaporn",
-      "awayTeam": "Thitapon Nakkaew",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Bai Yulu",
-      "awayTeam": "Lau Sum Yi",
-      "time": "13:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Narantuya Bayarsaikhan",
-      "awayTeam": "Lim Jin Er",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Coco Shao",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Xuejun Alice Wu",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "So Man Yan",
-      "awayTeam": "Vivian Yeoh",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Panchaya Channoi",
-      "awayTeam": "Thanh Tam Nguyen",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Baipat Siripaporn",
-      "awayTeam": "Shruthi L",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp I",
-      "leagueRound": null,
-      "homeTeam": "Onyee Ng",
-      "awayTeam": "Sharon Tan",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp J",
-      "leagueRound": null,
-      "homeTeam": "Anupama Ramachandran",
-      "awayTeam": "Adiyadolgor Chimedvaam",
-      "time": "14:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Liu Ziling",
-      "awayTeam": "Han Siew Li",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Shiu Wing Man",
-      "awayTeam": "Tan Kim Mei",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Mink Nutcharut",
-      "awayTeam": "Candyce Leow",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Lau Yuk Fan",
-      "awayTeam": "Choi Yan Tung",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Katrina Wan",
-      "awayTeam": "Cheng Siew Yun",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp I",
-      "leagueRound": null,
-      "homeTeam": "Onyee Ng",
-      "awayTeam": "Sharon Chua",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp I",
-      "leagueRound": null,
-      "homeTeam": "Charlene Chai",
-      "awayTeam": "Cheah Yuen Yuen",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp J",
-      "leagueRound": null,
-      "homeTeam": "Ho Yee Ki",
-      "awayTeam": "Lee Sook Kwan",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Edward Jones",
-      "awayTeam": "Jake Crofts",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Umut Dikme",
-      "awayTeam": "Velian Dimitrov",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Daniel Womersley",
-      "awayTeam": "Alfie Davies",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Bulcsu Revesz",
-      "awayTeam": "Riley Powell",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Torben Koehler",
-      "awayTeam": "Oliver Briffett-Payne",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Ryan Causton",
-      "awayTeam": "Jamie Curtis-Barrett",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Luke Pinches",
-      "awayTeam": "Joel Connolly",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Simon Lichtenberg",
-      "awayTeam": "Richard Wienold",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Paul Deaville",
-      "awayTeam": "Alexander Widau",
-      "time": "16:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Narantuya Bayarsaikhan",
-      "awayTeam": "Jia Shuangyu",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Reanne Evans",
-      "awayTeam": "Liu Weiyilu",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "So Man Yan",
-      "awayTeam": "Li Bihan",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Chu Pui Ying",
-      "awayTeam": "Su Xiaoming",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Cheung Yee Ting",
-      "awayTeam": "Bronica Song",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Narucha Phoemphul",
-      "awayTeam": "Ng Yun Ning",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp J",
-      "leagueRound": null,
-      "homeTeam": "Anupama Ramachandran",
-      "awayTeam": "Toh Hong Lay",
-      "time": "17:30",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Robert Milkins",
-      "awayTeam": "Peter Lines",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "George Pragnell",
-      "awayTeam": "Callum Beresford",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Filips Kalnins",
-      "awayTeam": "Patrick Whelan",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Shachar Ruberg",
-      "awayTeam": "Jack Borwick",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Umar Hayat Ali",
-      "awayTeam": "Lukas Kleckers",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Matvei Lagodzinschii",
-      "awayTeam": "Daniel Boyes",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 3",
-      "leagueRound": null,
-      "homeTeam": "Olivier Pechenart",
-      "awayTeam": "Aaron Busuttil",
-      "time": "18:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Sean Maddocks",
-      "awayTeam": "Sean McAllister",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Simon Blackwell",
-      "awayTeam": "Harvey Chandler",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "M Lloyd",
-      "awayTeam": "Billy Castle",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Robbie McGuigan",
-      "awayTeam": "Brian Ochoiski",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Haken",
-      "awayTeam": "Gradinari",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Le Clercq",
-      "awayTeam": "R Thomerson",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Ryan Davies",
-      "awayTeam": "Cini",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Bodor",
-      "awayTeam": "Nathan Jones",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "E Jones",
-      "awayTeam": "U Dikme",
-      "time": "20:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Womersley",
-      "awayTeam": "Revesz",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Koehler",
-      "awayTeam": "Causton",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "L Pinches",
-      "awayTeam": "Lichtenberg",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Deaville",
-      "awayTeam": "Milkins",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Pragnell",
-      "awayTeam": "Kalnins",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Ruberg",
-      "awayTeam": "U Ali",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 4",
-      "leagueRound": null,
-      "homeTeam": "Lagodzinschii",
-      "awayTeam": "Pechenart",
-      "time": "22:00",
-      "date": "2026-10-24",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
-      "leagueRound": null,
-      "homeTeam": "Maddocks",
-      "awayTeam": "Chandler",
-      "time": "00:00",
-      "date": "2026-10-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 5",
-      "leagueRound": null,
-      "homeTeam": "B J Castle",
-      "awayTeam": "McGuigan",
-      "time": "00:00",
-      "date": "2026-10-25",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1264,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1277,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1290,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1303,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1316,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1329,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1342,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1355,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1368,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1381,12 +328,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
       "homeTeam": "Panchaya Channoi",
-      "awayTeam": "Su Xiaoming",
+      "awayTeam": "Wang Ruotong",
       "time": "11:30",
       "date": "2026-10-25",
       "category": "其他",
@@ -1394,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1407,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1420,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1433,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1446,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1459,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1472,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1485,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1498,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1511,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1524,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1537,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1550,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1563,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1576,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1589,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1602,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1615,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp I",
       "leagueRound": null,
@@ -1628,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1641,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1654,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1667,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1680,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1693,12 +640,12 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
       "homeTeam": "Thanh Tam Nguyen",
-      "awayTeam": "Su Xiaoming",
+      "awayTeam": "Wang Ruotong",
       "time": "16:00",
       "date": "2026-10-25",
       "category": "其他",
@@ -1706,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1719,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1732,7 +679,59 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "Sean Maddocks",
+      "awayTeam": "Mark Lloyd",
+      "time": "17:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "Nardeia",
+      "awayTeam": "Mark Joyce",
+      "time": "17:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "U Dikme",
+      "awayTeam": "Curtis-Barrett",
+      "time": "17:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "QF",
+      "leagueRound": null,
+      "homeTeam": "P Lines",
+      "awayTeam": "Kleckers",
+      "time": "17:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1745,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1758,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1771,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1784,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1797,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1810,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1823,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp J",
       "leagueRound": null,
@@ -1836,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1849,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1862,7 +861,33 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "SF",
+      "leagueRound": null,
+      "homeTeam": "Maddocks",
+      "awayTeam": "M Joyce",
+      "time": "20:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Final",
+      "leagueRound": null,
+      "homeTeam": "Kyren Wilson",
+      "awayTeam": "M J Williams",
+      "time": "21:00",
+      "date": "2026-10-25",
+      "category": "其他",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1875,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1888,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1901,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1914,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1927,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1940,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1953,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1966,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1979,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -1992,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2005,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2018,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2031,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Q Rd 2",
       "leagueRound": null,
@@ -2044,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2057,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2070,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2083,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2096,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2109,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2122,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2135,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2148,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2161,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2174,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2187,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2200,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2213,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2226,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2239,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2252,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2265,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2278,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2291,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2304,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2317,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2330,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2343,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2356,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2369,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2382,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2395,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2408,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2421,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2434,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2447,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2460,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2473,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2486,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2499,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2512,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2525,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2538,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2603,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2616,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2629,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2642,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2655,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2668,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2681,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2694,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2707,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2720,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Northern Ireland Open (18-25 Oct 2026)",
+      "league": "Women's Snooker Open (24-27 Oct 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
