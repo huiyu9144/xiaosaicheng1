@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-30T04:59:46+08:00",
+  "updatedAt": "2026-10-31T04:38:50+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "亚特兰大老鹰",
-      "awayTeam": "克利夫兰骑士",
-      "time": "08:00",
-      "date": "2026-10-30",
+      "homeTeam": "华盛顿奇才",
+      "awayTeam": "夏洛特黄蜂",
+      "time": "07:00",
+      "date": "2026-10-31",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -20,10 +20,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "新奥尔良鹈鹕",
-      "awayTeam": "萨克拉门托国王",
-      "time": "08:00",
-      "date": "2026-10-30",
+      "homeTeam": "波士顿凯尔特人",
+      "awayTeam": "芝加哥公牛",
+      "time": "07:30",
+      "date": "2026-10-31",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -33,39 +33,104 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "波特兰开拓者",
-      "awayTeam": "孟菲斯灰熊",
+      "homeTeam": "布鲁克林篮网",
+      "awayTeam": "底特律活塞",
+      "time": "07:30",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "费城76人",
+      "awayTeam": "纽约尼克斯",
+      "time": "07:30",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "多伦多猛龙",
+      "awayTeam": "奥兰多魔术",
+      "time": "07:30",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "迈阿密热火",
+      "awayTeam": "印第安纳步行者",
+      "time": "08:00",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "达拉斯独行侠",
+      "awayTeam": "休斯顿火箭",
+      "time": "08:00",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "明尼苏达森林狼",
+      "awayTeam": "洛杉矶快船",
+      "time": "08:00",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "金州勇士",
+      "awayTeam": "洛杉矶湖人",
       "time": "10:00",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
       "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "Frosinone",
-      "awayTeam": "莱切",
-      "time": "01:30",
-      "date": "2026-10-30",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "佛罗伦萨",
-      "awayTeam": "亚特兰大",
-      "time": "03:45",
-      "date": "2026-10-30",
-      "category": "足球",
-      "isImportant": false,
-      "status": "live"
+      "homeTeam": "菲尼克斯太阳",
+      "awayTeam": "丹佛掘金",
+      "time": "10:00",
+      "date": "2026-10-31",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
     },
     {
       "league": "",
@@ -78,7 +143,7 @@
       "date": "2026-10-31",
       "category": "足球",
       "isImportant": false,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -91,7 +156,7 @@
       "date": "2026-10-31",
       "category": "足球",
       "isImportant": false,
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "league": "",
@@ -104,6 +169,19 @@
       "date": "2026-10-31",
       "category": "足球",
       "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "博洛尼亚",
+      "awayTeam": "蒙扎",
+      "time": "22:00",
+      "date": "2026-10-31",
+      "category": "足球",
+      "isImportant": false,
       "status": "upcoming"
     },
     {
@@ -173,6 +251,19 @@
     },
     {
       "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "乌迪内斯",
+      "awayTeam": "罗马",
+      "time": "01:00",
+      "date": "2026-11-01",
+      "category": "足球",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
       "leagueType": "英超",
       "matchStage": "常规赛",
       "leagueRound": null,
@@ -182,6 +273,19 @@
       "date": "2026-11-01",
       "category": "足球",
       "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "AC米兰",
+      "awayTeam": "国际米兰",
+      "time": "03:45",
+      "date": "2026-11-01",
+      "category": "足球",
+      "isImportant": false,
       "status": "upcoming"
     },
     {
