@@ -1,146 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-05T05:48:13+08:00",
+  "updatedAt": "2026-11-06T05:53:40+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "底特律活塞",
-      "awayTeam": "费城76人",
-      "time": "08:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "华盛顿奇才",
-      "awayTeam": "亚特兰大老鹰",
-      "time": "08:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "波士顿凯尔特人",
-      "awayTeam": "密尔沃基雄鹿",
-      "time": "08:30",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "布鲁克林篮网",
-      "awayTeam": "夏洛特黄蜂",
-      "time": "08:30",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "纽约尼克斯",
-      "awayTeam": "芝加哥公牛",
-      "time": "08:30",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "孟菲斯灰熊",
-      "awayTeam": "印第安纳步行者",
-      "time": "09:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "新奥尔良鹈鹕",
-      "awayTeam": "犹他爵士",
-      "time": "09:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "俄克拉荷马雷霆",
-      "awayTeam": "克利夫兰骑士",
-      "time": "09:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "休斯顿火箭",
-      "awayTeam": "明尼苏达森林狼",
-      "time": "09:30",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "丹佛掘金",
-      "awayTeam": "多伦多猛龙",
-      "time": "10:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
       "homeTeam": "菲尼克斯太阳",
-      "awayTeam": "波特兰开拓者",
+      "awayTeam": "奥兰多魔术",
       "time": "10:00",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -150,156 +20,13 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "圣安东尼奥马刺",
-      "awayTeam": "达拉斯独行侠",
-      "time": "10:30",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "萨克拉门托国王",
-      "awayTeam": "洛杉矶湖人",
-      "time": "11:00",
-      "date": "2026-11-05",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "洛杉矶快船",
+      "homeTeam": "金州勇士",
       "awayTeam": "迈阿密热火",
-      "time": "11:30",
-      "date": "2026-11-05",
+      "time": "11:00",
+      "date": "2026-11-06",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "AEK Athens",
-      "awayTeam": "皇家马德里",
-      "time": "01:45",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "费内巴切",
-      "awayTeam": "利物浦",
-      "time": "01:45",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "finished"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "多特蒙德",
-      "awayTeam": "皇家贝蒂斯",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "波尔图",
-      "awayTeam": "那不勒斯",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "朗斯",
-      "awayTeam": "科莫",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "埃因霍温",
-      "awayTeam": "布鲁日",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "莱比锡红牛",
-      "awayTeam": "曼城",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "布拉格斯拉维亚",
-      "awayTeam": "阿森纳",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
-    },
-    {
-      "league": "",
-      "leagueType": "欧冠",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "Viking FK",
-      "awayTeam": "Sabah FK",
-      "time": "04:00",
-      "date": "2026-11-05",
-      "category": "足球",
-      "isImportant": true,
-      "status": "live"
     },
     {
       "league": "",
@@ -367,488 +94,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Kyren Wilson",
-      "awayTeam": "Fan Zhengyi",
-      "time": "14:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Jason Williams",
-      "awayTeam": "Simone Lloyd",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Hiago Lima Mendes",
-      "awayTeam": "Jovani Silveira Alves",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Luciano Sehnem",
-      "awayTeam": "Regis Marques Chedid",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Ahmed Aly Elsayed",
-      "awayTeam": "Wagner Ferreira Serra",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Itaro Santos",
-      "awayTeam": "Dany Bruno Cruz",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Felipe Santos Silva",
-      "awayTeam": "Nitin Sharma",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Noel Rodrigues Moreira",
-      "awayTeam": "Paulo Aisu Campos",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Dhiones Moraes Arent",
-      "awayTeam": "Matheus Fatuch Pontarolli",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Victor Sarkis",
-      "awayTeam": "Pablo Lozov Mihnev",
-      "time": "21:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Jason Williams",
-      "awayTeam": "Hiago Lima Mendes",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Marcelo Mota da Silva",
-      "awayTeam": "Rodrigo Porrio de Andrade",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Hasanain Khalid Alsultani",
-      "awayTeam": "Mateus Lourenco Ferreira",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Ajeya Prabhakar",
-      "awayTeam": "Chagas Silva",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Claudio Menechini",
-      "awayTeam": "Julio Cesar Maus",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Daniel Holoyda",
-      "awayTeam": "Joï¿½o Teles Braga",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Yuri Gabriel Martins Lopes",
-      "awayTeam": "Ernst Bezemer",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Fabio Anderson Luersen",
-      "awayTeam": "Siro Ferreira Sobrinho",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Reagan Low Chew Tung",
-      "awayTeam": "Dario Cruvinel",
-      "time": "23:00",
-      "date": "2026-11-05",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Ahmed Aly Elsayed",
-      "awayTeam": "Luciano Sehnem",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Jesus Batista Oliveira",
-      "awayTeam": "Ademir Da Silva",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Itaro Santos",
-      "awayTeam": "Nitin Sharma",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp C",
-      "leagueRound": null,
-      "homeTeam": "Cleiton Elder Arouca Junqueira",
-      "awayTeam": "Eden Camargo",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Joao Gabriel Zarur",
-      "awayTeam": "Eduardo Henrique Faria",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Noel Rodrigues Moreira",
-      "awayTeam": "Matheus Fatuch Pontarolli",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Victor Sarkis",
-      "awayTeam": "Mateus Lourenco Ferreira",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp E",
-      "leagueRound": null,
-      "homeTeam": "Wellington Cardoso Faria",
-      "awayTeam": "Paulo Cesar Biaca",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Rodrigo Gentil Prestes",
-      "awayTeam": "Rayan Menechini",
-      "time": "01:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Simone Lloyd",
-      "awayTeam": "Rodrigo Porrio de Andrade",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp A",
-      "leagueRound": null,
-      "homeTeam": "Marcelo Mota da Silva",
-      "awayTeam": "Jovani Silveira Alves",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Regis Marques Chedid",
-      "awayTeam": "Ademir Da Silva",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp B",
-      "leagueRound": null,
-      "homeTeam": "Jesus Batista Oliveira",
-      "awayTeam": "Wagner Ferreira Serra",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Ajeya Prabhakar",
-      "awayTeam": "Julio Cesar Maus",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Daniel Holoyda",
-      "awayTeam": "Yuri Gabriel Martins Lopes",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Edward Ling",
-      "awayTeam": "Mihai Calin Visovan",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Adao Marcanzoni",
-      "awayTeam": "Denio Carlos Nunes Santana Brito",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp H",
-      "leagueRound": null,
-      "homeTeam": "Fabio Anderson Luersen",
-      "awayTeam": "Reagan Low Chew Tung",
-      "time": "03:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -861,7 +107,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -874,20 +120,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp D",
-      "leagueRound": null,
-      "homeTeam": "Eduardo Henrique Faria",
-      "awayTeam": "Dhiones Moraes Arent",
-      "time": "05:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -900,7 +133,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -913,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -926,20 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp F",
-      "leagueRound": null,
-      "homeTeam": "Chagas Silva",
-      "awayTeam": "Rayan Menechini",
-      "time": "05:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -952,20 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Grp G",
-      "leagueRound": null,
-      "homeTeam": "Mihai Calin Visovan",
-      "awayTeam": "Ernst Bezemer",
-      "time": "05:00",
-      "date": "2026-11-06",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -978,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -991,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1004,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1017,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1030,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1043,12 +250,12 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
       "homeTeam": "Edward Ling",
-      "awayTeam": "Joï¿½o Teles Braga",
+      "awayTeam": "Joao Teles Braga",
       "time": "07:01",
       "date": "2026-11-06",
       "category": "其他",
@@ -1056,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1069,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1082,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "SF",
       "leagueRound": null,
@@ -1095,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1108,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1121,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1134,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1147,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1160,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1173,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1186,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1199,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1212,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1225,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1238,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1251,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1264,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1277,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1290,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1303,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1316,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1329,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1342,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1355,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1368,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1381,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1394,11 +601,11 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
-      "homeTeam": "Joï¿½o Teles Braga",
+      "homeTeam": "Joao Teles Braga",
       "awayTeam": "Yuri Gabriel Martins Lopes",
       "time": "01:00",
       "date": "2026-11-07",
@@ -1407,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1420,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1433,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1446,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1459,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1472,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1485,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1498,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1511,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1524,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1537,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1550,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1563,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1576,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1589,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1602,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1615,12 +822,12 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
       "homeTeam": "Ernst Bezemer",
-      "awayTeam": "Joï¿½o Teles Braga",
+      "awayTeam": "Joao Teles Braga",
       "time": "05:00",
       "date": "2026-11-07",
       "category": "其他",
@@ -1628,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1641,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1654,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1667,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1680,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1693,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1706,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1719,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1732,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1745,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1758,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1771,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1784,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1797,11 +1004,11 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Final",
       "leagueRound": null,
-      "homeTeam": "K Wilson",
+      "homeTeam": "Kyren Wilson",
       "awayTeam": "J Higgins",
       "time": "14:00",
       "date": "2026-11-07",
@@ -1810,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp A",
       "leagueRound": null,
@@ -1823,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp B",
       "leagueRound": null,
@@ -1836,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp C",
       "leagueRound": null,
@@ -1849,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1862,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
@@ -1875,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1888,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1901,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp D",
       "leagueRound": null,
@@ -1914,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp E",
       "leagueRound": null,
@@ -1927,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp F",
       "leagueRound": null,
@@ -1940,11 +1147,11 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp G",
       "leagueRound": null,
-      "homeTeam": "Joï¿½o Teles Braga",
+      "homeTeam": "Joao Teles Braga",
       "awayTeam": "Mihai Calin Visovan",
       "time": "23:00",
       "date": "2026-11-07",
@@ -1953,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Grp H",
       "leagueRound": null,
@@ -1966,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1979,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1992,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2005,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2018,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2031,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2044,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2057,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2070,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2083,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2096,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2109,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2122,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2135,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2148,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2161,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2174,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2187,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2200,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2213,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2226,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2239,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2252,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2265,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2278,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2291,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2304,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2317,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2330,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2343,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2356,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2369,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2382,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2395,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2408,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2421,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2434,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2447,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2460,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2473,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2486,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2499,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2512,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2525,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2538,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2551,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2564,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2577,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2590,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2603,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2616,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2629,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2642,7 +1849,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2655,7 +1862,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2668,7 +1875,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2681,7 +1888,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2694,7 +1901,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2707,7 +1914,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2720,7 +1927,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -2733,7 +1940,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2746,7 +1953,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2759,7 +1966,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2772,7 +1979,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2785,7 +1992,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2798,7 +2005,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2811,7 +2018,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2824,7 +2031,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2837,7 +2044,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2850,7 +2057,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2863,7 +2070,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2876,7 +2083,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2889,7 +2096,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2902,7 +2109,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2915,7 +2122,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2928,7 +2135,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2941,7 +2148,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2954,7 +2161,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2967,7 +2174,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2980,7 +2187,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -2993,7 +2200,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3006,7 +2213,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3019,7 +2226,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3032,7 +2239,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3045,7 +2252,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3058,7 +2265,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3071,7 +2278,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3084,7 +2291,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3097,7 +2304,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3110,7 +2317,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3123,7 +2330,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3136,7 +2343,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -3149,7 +2356,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3162,7 +2369,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3175,7 +2382,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3188,7 +2395,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3201,7 +2408,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3214,7 +2421,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3227,7 +2434,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3240,7 +2447,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3253,7 +2460,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3266,7 +2473,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3279,7 +2486,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3292,7 +2499,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3305,7 +2512,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3318,7 +2525,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3331,7 +2538,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3344,7 +2551,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3357,7 +2564,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3370,7 +2577,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3383,7 +2590,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3396,7 +2603,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3409,7 +2616,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3422,7 +2629,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3435,7 +2642,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3448,7 +2655,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3461,7 +2668,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3474,7 +2681,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3487,7 +2694,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3500,7 +2707,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3513,7 +2720,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3526,7 +2733,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3539,7 +2746,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -3552,7 +2759,7 @@
       "status": "upcoming"
     },
     {
-      "league": "International Championship (31 Oct - 7 Nov 2026)",
+      "league": "Pan American Open (5-8 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
