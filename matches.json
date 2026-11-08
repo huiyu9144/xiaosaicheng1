@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T04:06:25+08:00",
+  "updatedAt": "2026-11-09T04:25:37+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "印第安纳步行者",
-      "awayTeam": "丹佛掘金",
-      "time": "06:00",
-      "date": "2026-11-08",
+      "homeTeam": "芝加哥公牛",
+      "awayTeam": "费城76人",
+      "time": "04:30",
+      "date": "2026-11-09",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -20,10 +20,36 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "亚特兰大老鹰",
+      "homeTeam": "底特律活塞",
+      "awayTeam": "洛杉矶湖人",
+      "time": "07:00",
+      "date": "2026-11-09",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "明尼苏达森林狼",
+      "awayTeam": "犹他爵士",
+      "time": "08:00",
+      "date": "2026-11-09",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "达拉斯独行侠",
       "awayTeam": "布鲁克林篮网",
       "time": "08:30",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -33,10 +59,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "克利夫兰骑士",
-      "awayTeam": "纽约尼克斯",
+      "homeTeam": "密尔沃基雄鹿",
+      "awayTeam": "波士顿凯尔特人",
       "time": "09:00",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -46,36 +72,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "俄克拉荷马雷霆",
-      "awayTeam": "华盛顿奇才",
-      "time": "09:00",
-      "date": "2026-11-08",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "金州勇士",
-      "awayTeam": "奥兰多魔术",
-      "time": "09:30",
-      "date": "2026-11-08",
-      "category": "篮球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "NBA",
-      "matchStage": "季后赛",
-      "leagueRound": null,
-      "homeTeam": "菲尼克斯太阳",
-      "awayTeam": "休斯顿火箭",
+      "homeTeam": "洛杉矶快船",
+      "awayTeam": "新奥尔良鹈鹕",
       "time": "10:00",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -85,38 +85,51 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "波特兰开拓者",
-      "awayTeam": "圣安东尼奥马刺",
-      "time": "11:00",
-      "date": "2026-11-08",
+      "homeTeam": "萨克拉门托国王",
+      "awayTeam": "迈阿密热火",
+      "time": "10:00",
+      "date": "2026-11-09",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
-    },
-    {
-      "league": "",
-      "leagueType": "意甲",
-      "matchStage": "常规赛",
-      "leagueRound": null,
-      "homeTeam": "帕尔马",
-      "awayTeam": "博洛尼亚",
-      "time": "01:00",
-      "date": "2026-11-08",
-      "category": "足球",
-      "isImportant": false,
-      "status": "finished"
     },
     {
       "league": "",
       "leagueType": "英超",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "诺丁汉森林",
-      "awayTeam": "曼城",
-      "time": "01:30",
-      "date": "2026-11-08",
+      "homeTeam": "曼联",
+      "awayTeam": "阿斯顿维拉",
+      "time": "00:30",
+      "date": "2026-11-09",
       "category": "足球",
       "isImportant": true,
+      "status": "finished"
+    },
+    {
+      "league": "",
+      "leagueType": "德甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "弗赖堡",
+      "awayTeam": "柏林联合",
+      "time": "00:30",
+      "date": "2026-11-09",
+      "category": "足球",
+      "isImportant": false,
+      "status": "finished"
+    },
+    {
+      "league": "",
+      "leagueType": "意甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "国际米兰",
+      "awayTeam": "科莫",
+      "time": "01:00",
+      "date": "2026-11-09",
+      "category": "足球",
+      "isImportant": false,
       "status": "finished"
     },
     {
@@ -124,10 +137,23 @@
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "奥萨苏纳",
-      "awayTeam": "毕尔巴鄂竞技",
+      "homeTeam": "塞尔塔",
+      "awayTeam": "Levante",
       "time": "01:30",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
+      "category": "足球",
+      "isImportant": false,
+      "status": "finished"
+    },
+    {
+      "league": "",
+      "leagueType": "西甲",
+      "matchStage": "常规赛",
+      "leagueRound": null,
+      "homeTeam": "比利亚雷亚尔",
+      "awayTeam": "赫塔费",
+      "time": "01:30",
+      "date": "2026-11-09",
       "category": "足球",
       "isImportant": false,
       "status": "finished"
@@ -137,23 +163,23 @@
       "leagueType": "德甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "斯图加特",
-      "awayTeam": "云达不莱梅",
-      "time": "01:30",
-      "date": "2026-11-08",
+      "homeTeam": "霍芬海姆",
+      "awayTeam": "Schalke 04",
+      "time": "02:30",
+      "date": "2026-11-09",
       "category": "足球",
       "isImportant": false,
-      "status": "finished"
+      "status": "live"
     },
     {
       "league": "",
       "leagueType": "意甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "罗马",
-      "awayTeam": "Sassuolo",
+      "homeTeam": "佛罗伦萨",
+      "awayTeam": "尤文图斯",
       "time": "03:45",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "足球",
       "isImportant": false,
       "status": "live"
@@ -163,107 +189,16 @@
       "leagueType": "西甲",
       "matchStage": "常规赛",
       "leagueRound": null,
-      "homeTeam": "瓦伦西亚",
-      "awayTeam": "皇家马德里",
+      "homeTeam": "马德里竞技",
+      "awayTeam": "巴塞罗那",
       "time": "04:00",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "足球",
       "isImportant": false,
       "status": "live"
     },
     {
-      "league": "",
-      "leagueType": "中超",
-      "matchStage": "常规赛",
-      "leagueRound": 30,
-      "homeTeam": "北京国安",
-      "awayTeam": "重庆铜梁龙",
-      "time": "15:30",
-      "date": "2026-11-08",
-      "category": "足球",
-      "isImportant": true,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Mendes",
-      "awayTeam": "Daniel Holoyda",
-      "time": "05:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Jason Williams",
-      "awayTeam": "Ling",
-      "time": "05:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "I Santos",
-      "awayTeam": "Claudio Menechini",
-      "time": "05:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "Noel Rodrigues Moreira",
-      "awayTeam": "Rayan Menechini",
-      "time": "05:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Holoyda",
-      "awayTeam": "J Williams",
-      "time": "21:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "SF",
-      "leagueRound": null,
-      "homeTeam": "Menechini",
-      "awayTeam": "Moreira",
-      "time": "21:00",
-      "date": "2026-11-08",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -289,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -302,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -341,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -380,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -510,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -770,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -835,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -848,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -861,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -874,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -887,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -900,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -913,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -926,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -939,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -952,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -965,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -978,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -991,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1004,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1017,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1030,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1043,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1056,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1069,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1082,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1095,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +1043,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1121,7 +1056,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1134,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1147,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1160,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1173,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1186,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1199,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1212,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1225,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1238,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1251,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1264,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1277,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1290,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1303,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1316,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1329,7 +1264,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1342,7 +1277,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1355,7 +1290,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1368,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1381,7 +1316,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1394,7 +1329,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1407,7 +1342,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1420,7 +1355,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1433,7 +1368,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1446,7 +1381,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1459,7 +1394,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1472,7 +1407,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1485,7 +1420,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1498,7 +1433,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +1446,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1524,7 +1459,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1537,7 +1472,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1550,7 +1485,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1563,7 +1498,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1576,7 +1511,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +1524,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +1537,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +1550,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1628,7 +1563,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1641,7 +1576,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1654,7 +1589,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1667,7 +1602,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1680,7 +1615,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1693,7 +1628,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1706,7 +1641,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1719,7 +1654,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1732,7 +1667,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1745,7 +1680,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1758,7 +1693,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1771,7 +1706,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1784,7 +1719,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1797,7 +1732,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1810,7 +1745,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1823,7 +1758,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1836,7 +1771,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1849,7 +1784,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1862,7 +1797,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1875,7 +1810,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1888,7 +1823,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1901,7 +1836,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Pan American Open (5-8 Nov 2026)",
+      "league": "Champion of Champions (9-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
