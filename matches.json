@@ -1,16 +1,29 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T05:45:17+08:00",
+  "updatedAt": "2026-11-12T06:36:01+08:00",
   "matches": [
     {
       "league": "",
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
+      "homeTeam": "印第安纳步行者",
+      "awayTeam": "华盛顿奇才",
+      "time": "08:00",
+      "date": "2026-11-12",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
       "homeTeam": "纽约尼克斯",
-      "awayTeam": "密尔沃基雄鹿",
-      "time": "08:30",
-      "date": "2026-11-11",
+      "awayTeam": "克利夫兰骑士",
+      "time": "08:00",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -20,10 +33,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "费城76人",
+      "homeTeam": "多伦多猛龙",
       "awayTeam": "波士顿凯尔特人",
-      "time": "09:00",
-      "date": "2026-11-11",
+      "time": "08:00",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -33,10 +46,49 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "菲尼克斯太阳",
-      "awayTeam": "洛杉矶快船",
-      "time": "10:00",
-      "date": "2026-11-11",
+      "homeTeam": "芝加哥公牛",
+      "awayTeam": "圣安东尼奥马刺",
+      "time": "09:00",
+      "date": "2026-11-12",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "孟菲斯灰熊",
+      "awayTeam": "丹佛掘金",
+      "time": "09:00",
+      "date": "2026-11-12",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "密尔沃基雄鹿",
+      "awayTeam": "洛杉矶湖人",
+      "time": "09:00",
+      "date": "2026-11-12",
+      "category": "篮球",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "",
+      "leagueType": "NBA",
+      "matchStage": "季后赛",
+      "leagueRound": null,
+      "homeTeam": "新奥尔良鹈鹕",
+      "awayTeam": "布鲁克林篮网",
+      "time": "09:00",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -47,9 +99,9 @@
       "matchStage": "季后赛",
       "leagueRound": null,
       "homeTeam": "犹他爵士",
-      "awayTeam": "迈阿密热火",
+      "awayTeam": "奥兰多魔术",
       "time": "10:00",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -59,10 +111,10 @@
       "leagueType": "NBA",
       "matchStage": "季后赛",
       "leagueRound": null,
-      "homeTeam": "萨克拉门托国王",
-      "awayTeam": "奥兰多魔术",
-      "time": "11:00",
-      "date": "2026-11-11",
+      "homeTeam": "休斯顿火箭",
+      "awayTeam": "金州勇士",
+      "time": "10:30",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
@@ -74,53 +126,14 @@
       "leagueRound": null,
       "homeTeam": "波特兰开拓者",
       "awayTeam": "俄克拉荷马雷霆",
-      "time": "12:00",
-      "date": "2026-11-11",
+      "time": "11:00",
+      "date": "2026-11-12",
       "category": "篮球",
       "isImportant": true,
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Shaun Murphy",
-      "awayTeam": "Ronnie O'Sullivan",
-      "time": "21:00",
-      "date": "2026-11-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Champion of Champions (9-15 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "Rd 1",
-      "leagueRound": null,
-      "homeTeam": "Wu Yize",
-      "awayTeam": "Chang Bingyu",
-      "time": "23:00",
-      "date": "2026-11-11",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Champion of Champions (9-15 Nov 2026)",
-      "leagueType": "斯诺克",
-      "matchStage": "QF",
-      "leagueRound": null,
-      "homeTeam": "S Murphy",
-      "awayTeam": "Wu Yize",
-      "time": "03:00",
-      "date": "2026-11-12",
-      "category": "其他",
-      "isImportant": false,
-      "status": "upcoming"
-    },
-    {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -133,7 +146,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -146,7 +159,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -159,7 +172,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -172,7 +185,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -185,7 +198,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -198,7 +211,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -211,7 +224,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -224,7 +237,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -237,7 +250,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -250,7 +263,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -263,7 +276,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -276,7 +289,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -289,7 +302,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -302,7 +315,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -315,7 +328,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -328,7 +341,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -341,7 +354,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -354,7 +367,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -367,7 +380,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -380,7 +393,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -393,7 +406,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -406,7 +419,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -419,7 +432,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -432,7 +445,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -445,7 +458,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -458,7 +471,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -471,7 +484,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -484,7 +497,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -497,7 +510,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "QF",
       "leagueRound": null,
@@ -510,7 +523,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -523,7 +536,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -536,7 +549,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -549,7 +562,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -562,7 +575,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -575,7 +588,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -588,7 +601,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -601,7 +614,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -614,7 +627,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -627,7 +640,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -640,7 +653,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -653,7 +666,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -666,7 +679,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -679,7 +692,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -692,7 +705,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -705,7 +718,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -718,7 +731,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -731,7 +744,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -744,7 +757,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -757,7 +770,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -770,7 +783,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -783,7 +796,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -796,7 +809,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -809,7 +822,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -822,7 +835,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -835,7 +848,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -848,7 +861,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -861,7 +874,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -874,7 +887,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -887,7 +900,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -900,7 +913,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -913,7 +926,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -926,7 +939,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -939,7 +952,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -952,7 +965,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -965,7 +978,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -978,7 +991,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -991,7 +1004,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1004,7 +1017,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1017,7 +1030,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1030,7 +1043,20 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "SF",
+      "leagueRound": null,
+      "homeTeam": "Chris Wakelin",
+      "awayTeam": "Neil Robertson",
+      "time": "03:00",
+      "date": "2026-11-14",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1043,7 +1069,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1056,7 +1082,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1069,7 +1095,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1082,7 +1108,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1095,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1108,7 +1134,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1121,7 +1147,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1134,7 +1160,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1147,7 +1173,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1160,7 +1186,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1173,7 +1199,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1186,7 +1212,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1199,7 +1225,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1212,7 +1238,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1225,7 +1251,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 2",
       "leagueRound": null,
@@ -1238,7 +1264,1476 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Final",
+      "leagueRound": null,
+      "homeTeam": "C Wakelin",
+      "awayTeam": "S Murphy",
+      "time": "21:00",
+      "date": "2026-11-15",
+      "category": "其他",
+      "isImportant": true,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Dylan Emery",
+      "awayTeam": "Craig Steadman",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "David Grace",
+      "awayTeam": "Anton Kazakov",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ishpreet Singh Chadha",
+      "awayTeam": "Liu Yang",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Yao Pengcheng",
+      "awayTeam": "Mahmoud El Hareedy",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Wang Xinbo",
+      "awayTeam": "Ashley Hugill",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mitchell Mann",
+      "awayTeam": "Joshua Thomond",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Lan Yuhao",
+      "awayTeam": "Sean O'Sullivan",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mateusz Baranowski",
+      "awayTeam": "Cheung Ka Wai",
+      "time": "18:00",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Fergal Quinn",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Artemijs Zizins",
+      "awayTeam": "Antoni Kowalski",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Florian N&uuml;&szlig;le",
+      "awayTeam": "Chatchapong Nasa",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liu Wenwei",
+      "awayTeam": "Alexander Ursenbacher",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Zhao Hanyang",
+      "awayTeam": "Michael Larkov",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Gao Yang",
+      "awayTeam": "Mina Awad",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Lyu Haotian",
+      "awayTeam": "Panchaya Channoi",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jamie Clarke",
+      "awayTeam": "Huang Jiahao",
+      "time": "22:30",
+      "date": "2026-11-16",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Michal Szubarczyk",
+      "awayTeam": "Phil O'Kane",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Leone Crowley",
+      "awayTeam": "Stuart Carrington",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Louis Heathcote",
+      "awayTeam": "Hammad Miah",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ashley Carty",
+      "awayTeam": "Oliver Brown",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ian Burns",
+      "awayTeam": "Paul Norris",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Gong Chenzhi",
+      "awayTeam": "Andrew Higginson",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Iulian Boiko",
+      "awayTeam": "Jimmy White",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liam Davies",
+      "awayTeam": "Alfie Burden",
+      "time": "03:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Xu Yichen",
+      "awayTeam": "Luo Zetao",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jordan Brown",
+      "awayTeam": "Sahil Nayyar",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Marco Fu",
+      "awayTeam": "Oliver Sykes",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liam Graham",
+      "awayTeam": "Julien Leclercq",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ross Muir",
+      "awayTeam": "Deng Haohui",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liam Pullen",
+      "awayTeam": "Bai Yulu",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "T Tirapongpaiboon",
+      "awayTeam": "Connor Benzey",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Steven Hallworth",
+      "awayTeam": "Onyee Ng",
+      "time": "18:00",
+      "date": "2026-11-17",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Michal Szubarczyk",
+      "awayTeam": "Joshua Thomond",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Andrew Higginson",
+      "awayTeam": "Farakh Ajaib",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Gong Chenzhi",
+      "awayTeam": "Paul Norris",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Huang Jiahao",
+      "awayTeam": "Panchaya Channoi",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Connor Benzey",
+      "awayTeam": "Craig Steadman",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Leone Crowley",
+      "awayTeam": "Sean O'Sullivan",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Antoni Kowalski",
+      "awayTeam": "Ryan Davies",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Artemijs Zizins",
+      "awayTeam": "Liu Yang",
+      "time": "17:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Zhao Hanyang",
+      "awayTeam": "Onyee Ng",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ashley Hugill",
+      "awayTeam": "Aaron Busuttil",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Ashley Carty",
+      "awayTeam": "Bai Yulu",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Chatchapong Nasa",
+      "awayTeam": "Dean Young",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Cheung Ka Wai",
+      "awayTeam": "Michael Larkov",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jamie Clarke",
+      "awayTeam": "Riley Powell",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Alfie Burden",
+      "awayTeam": "Mahmoud El Hareedy",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mateusz Baranowski",
+      "awayTeam": "Stuart Carrington",
+      "time": "22:30",
+      "date": "2026-11-21",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Reanne Evans",
+      "awayTeam": "Daniel Boyes",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Alexander Ursenbacher",
+      "awayTeam": "Vladislav Gradinari",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Mitchell Mann",
+      "awayTeam": "Deng Haohui",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Luo Zetao",
+      "awayTeam": "Sebastian Milewski",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Julien Leclercq",
+      "awayTeam": "Phil O'Kane",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "T Tirapongpaiboon",
+      "awayTeam": "Paul Deaville",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Fergal Quinn",
+      "awayTeam": "Krzysztof Czapnik",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Wang Xinbo",
+      "awayTeam": "Hammad Miah",
+      "time": "03:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Xu Yichen",
+      "awayTeam": "Edward Jones",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Sahil Nayyar",
+      "awayTeam": "Mark Joyce",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Florian N&uuml;&szlig;le",
+      "awayTeam": "Sanderson Lam",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Jimmy White",
+      "awayTeam": "Brian Ochoiski",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Oliver Brown",
+      "awayTeam": "Anton Kazakov",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liam Graham",
+      "awayTeam": "Mark Lloyd",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Oliver Sykes",
+      "awayTeam": "Peter Lines",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 1",
+      "leagueRound": null,
+      "homeTeam": "Liu Wenwei",
+      "awayTeam": "Mina Awad",
+      "time": "17:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Lan Yuhao",
+      "awayTeam": "Szubarczyk",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "He Guoqiang",
+      "awayTeam": "Higginson",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Marco Fu",
+      "awayTeam": "Gong C",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jamie Jones",
+      "awayTeam": "Huang J",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Martin O'Donnell",
+      "awayTeam": "Benzey",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Iulian Boiko",
+      "awayTeam": "L Crowley",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Long Zehuang",
+      "awayTeam": "A Kowalski",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "David Grace",
+      "awayTeam": "Zizins",
+      "time": "22:30",
+      "date": "2026-11-22",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Yao Pengcheng",
+      "awayTeam": "Zhao H",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Liu Hongyu",
+      "awayTeam": "Hugill",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Lyu Haotian",
+      "awayTeam": "Carty",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Liam Highfield",
+      "awayTeam": "Nasa",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jiang Jun",
+      "awayTeam": "Cheung K",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Louis Heathcote",
+      "awayTeam": "J Clarke",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Matthew Stevens",
+      "awayTeam": "Burden",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Liam Davies",
+      "awayTeam": "Baranowski",
+      "time": "03:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Gao Yang",
+      "awayTeam": "R Evans",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Robbie Williams",
+      "awayTeam": "Ursenbacher",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Liam Pullen",
+      "awayTeam": "M Mann",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "David Lilley",
+      "awayTeam": "Luo Z",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Sam Craigie",
+      "awayTeam": "Leclercq",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Jordan Brown",
+      "awayTeam": "Tirapongpaiboon",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ricky Walden",
+      "awayTeam": "F Quinn",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ross Muir",
+      "awayTeam": "Wang Xinbo",
+      "time": "17:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ian Burns",
+      "awayTeam": "Xu Yichen",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ben Woollaston",
+      "awayTeam": "Nayyar",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ishpreet Singh Chadha",
+      "awayTeam": "N&uuml;&szlig;le",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Ben Mertens",
+      "awayTeam": "J White",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Scott Donaldson",
+      "awayTeam": "O Brown",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Dylan Emery",
+      "awayTeam": "L Graham",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Oliver Lines",
+      "awayTeam": "Sykes",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 2",
+      "leagueRound": null,
+      "homeTeam": "Steven Hallworth",
+      "awayTeam": "Liu W",
+      "time": "22:30",
+      "date": "2026-11-23",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Jak Jones",
+      "awayTeam": "Selt",
+      "time": "21:00",
+      "date": "2026-11-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "J O'Connor",
+      "awayTeam": "Saengkham",
+      "time": "21:00",
+      "date": "2026-11-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Holt",
+      "awayTeam": "Si Jiahui",
+      "time": "21:00",
+      "date": "2026-11-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "J Robertson",
+      "awayTeam": "Slessor",
+      "time": "21:00",
+      "date": "2026-11-25",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Zhang Anda",
+      "awayTeam": "Moody",
+      "time": "03:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "G Wilson",
+      "awayTeam": "McGill",
+      "time": "03:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Ford",
+      "awayTeam": "Pang Junxu",
+      "time": "03:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Fan Z",
+      "awayTeam": "Bingham",
+      "time": "03:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Ding Junhui",
+      "awayTeam": "R Day",
+      "time": "21:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Yuan Sijun",
+      "awayTeam": "Brecel",
+      "time": "21:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "D Gilbert",
+      "awayTeam": "Maguire",
+      "time": "21:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Wells",
+      "awayTeam": "Zhou Yuelong",
+      "time": "21:00",
+      "date": "2026-11-26",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Lisowski",
+      "awayTeam": "Xu Si",
+      "time": "03:00",
+      "date": "2026-11-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Vafaei",
+      "awayTeam": "A Hill",
+      "time": "03:00",
+      "date": "2026-11-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "J Page",
+      "awayTeam": "Lei Peifan",
+      "time": "03:00",
+      "date": "2026-11-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
+      "leagueType": "斯诺克",
+      "matchStage": "Q Rd 4",
+      "leagueRound": null,
+      "homeTeam": "Surety",
+      "awayTeam": "Un-Nooh",
+      "time": "03:00",
+      "date": "2026-11-27",
+      "category": "其他",
+      "isImportant": false,
+      "status": "upcoming"
+    },
+    {
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1251,7 +2746,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1264,7 +2759,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1277,7 +2772,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1290,7 +2785,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1303,7 +2798,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1316,7 +2811,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1329,7 +2824,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1342,7 +2837,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1355,7 +2850,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1368,7 +2863,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1381,7 +2876,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1394,7 +2889,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1407,7 +2902,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1420,7 +2915,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1433,7 +2928,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1446,7 +2941,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1459,7 +2954,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1472,7 +2967,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1485,7 +2980,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1498,7 +2993,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1511,7 +3006,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1524,7 +3019,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1537,7 +3032,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1550,7 +3045,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1563,7 +3058,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1576,7 +3071,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1589,7 +3084,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1602,7 +3097,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1615,7 +3110,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1628,7 +3123,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
@@ -1641,7 +3136,7 @@
       "status": "upcoming"
     },
     {
-      "league": "Champion of Champions (9-15 Nov 2026)",
+      "league": "Q Tour 4 (12-15 Nov 2026)",
       "leagueType": "斯诺克",
       "matchStage": "Rd 1",
       "leagueRound": null,
